@@ -1,0 +1,476 @@
+{
+	"angry": {
+		"forms": {
+			"none": "{} is angry",
+			"others": "{} is angry at {}",
+			"reason": "{} is angry because {}",
+			"both": "{} is angry at {} for {}"
+		}
+	},
+	"bite": {
+		"forms": {
+			"none": "{} is biting",
+			"others": "{} is biting {}",
+			"reason": "{} is biting because {}",
+			"both": "{} is biting {} for {}"
+		}
+	},
+	"blush": {
+		"forms": {
+			"none": "{} is blushing",
+			"others": "{} is blushing at {}",
+			"reason": "{} is blushing because {}",
+			"both": "{} is blushing at {} for {}"
+		}
+	},
+	"bored": {
+		"forms": {
+			"none": "{} is bored",
+			"others": "{}, {} are bored",
+			"reason": "{} is bored because {}",
+			"both": "{}, {} are bored because {}"
+		}
+	},
+	"bonk": {
+		"forms": {
+			"none": "{} is bonking",
+			"others": "{} is bonking {}",
+			"reason": "{} is bonking because {}",
+			"both": "{} is bonking {} for {}"
+		}
+	},
+	"boop": {
+		"forms": {
+			"none": "{} is booping",
+			"others": "{} is booping {}",
+			"reason": "{} is booping because {}",
+			"both": "{} is booping {} for {}"
+		}
+	},
+	"chase": {
+		"forms": {
+			"none": "{} is chasing",
+			"others": "{} is chasing {}",
+			"reason": "{} is chasing because {}",
+			"both": "{} is chasing {} for {}"
+		}
+	},
+	"cheer": {
+		"forms": {
+			"none": "{} is cheering",
+			"others": "{} is cheering for {}",
+			"reason": "{} is cheering because {}",
+			"both": "{} is cheering for {} because {}"
+		}
+	},
+	"cringe": {
+		"forms": {
+			"none": "{} is cringing",
+			"others": "{} is cringing at {}",
+			"reason": "{} is cringing because {}",
+			"both": "{} is cringing at {} for {}"
+		}
+	},
+	"cry": {
+		"forms": {
+			"none": "{} is crying",
+			"others": "{} is crying at {}",
+			"reason": "{} is crying because {}",
+			"both": "{} is crying at {} for {}"
+		}
+	},
+	"cuddle": {
+		"forms": {
+			"none": "{} is cuddling",
+			"others": "{} is cuddling with {}",
+			"reason": "{} is cuddling because {}",
+			"both": "{} is cuddling with {} for {}"
+		}
+	},
+	"dab": {
+		"forms": {
+			"none": "{} is dabing",
+			"others": "{} is dabing at {}",
+			"reason": "{} is dabing because {}",
+			"both": "{} is dabing at {} for {}"
+		}
+	},
+	"dance": {
+		"forms": {
+			"none": "{} is dancing",
+			"others": "{} is dancing with {}",
+			"reason": "{} is dancing because {}",
+			"both": "{} is dancing with {} for {}"
+		}
+	},
+	"die": {
+		"forms": {
+			"none": "{} is dying",
+			"others": "{} is dying with {}",
+			"reason": "{} is dying because {}",
+			"both": "{} is dying with {} because {}"
+		}
+	},
+	"eat": {
+		"forms": {
+			"none": "{} is eating",
+			"others": "{} is eating with {}",
+			"reason": "{} is eating because {}",
+			"both": "{} is eating with {} for {}"
+		}
+	},
+	"facepalm": {
+		"forms": {
+			"none": "{} is facepalming",
+			"others": "{} is facepalming at {}",
+			"reason": "{} is facepalming because {}",
+			"both": "{} is facepalming at {} for {}"
+		}
+	},
+	"feed": {
+		"forms": {
+			"none": "{} is eating",
+			"others": "{} is feeding {}",
+			"reason": "{} is eating because {}",
+			"both": "{} is feeding {} for {}"
+		}
+	},
+	"glomp": {
+		"forms": {
+			"none": "{} is glomping",
+			"others": "{} is glomping {}",
+			"reason": "{} is glomping because {}",
+			"both": "{} is glomping {} for {}"
+		}
+	},
+	"handhold": {
+		"alias": "holdhands"
+	},
+	"happy": {
+		"forms": {
+			"none": "{} is happy",
+			"others": "{} is happy with {}",
+			"reason": "{} is happy because {}",
+			"both": "{} is happy with {} for {}"
+		}
+	},
+	"hate": {
+		"forms": {
+			"none": "{} is hating",
+			"others": "{} is hating {}",
+			"reason": "{} is hating because {}",
+			"both": "{} is hating {} for {}"
+		}
+	},
+	"holdhands": {
+		"forms": {
+			"none": "{} is holding hands",
+			"others": "{} is holding hands with {}",
+			"reason": "{} is holding hands because {}",
+			"both": "{} is holding hands with {} for {}"
+		}
+	},
+	"hide": {
+		"forms": {
+			"none": "{} is hiding",
+			"others": "{} is hiding from {}",
+			"reason": "{} is hiding because {}",
+			"both": "{} is hiding from {} for {}"
+		}
+	},
+	"highfive": {
+		"forms": {
+			"none": "{} is high fiving",
+			"others": "{} is high fiving with {}",
+			"reason": "{} is high fiving because {}",
+			"both": "{} is high fiving with {} for {}"
+		}
+	},
+	"hug": {
+		"forms": {
+			"none": "{} is hugging",
+			"others": "{} is hugging {}",
+			"reason": "{} is hugging because {}",
+			"both": "{} is hugging at {} for {}"
+		}
+	},
+	"kill": {
+		"forms": {
+			"none": "{} is killing",
+			"others": "{} is killing {}",
+			"reason": "{} is killing because {}",
+			"both": "{} is killing {} for {}"
+		}
+	},
+	"kiss": {
+		"forms": {
+			"none": "{} is kissing",
+			"others": "{} is kissing {}",
+			"reason": "{} is kissing because {}",
+			"both": "{} is kissing {} for {}"
+		}
+	},
+	"laugh": {
+		"forms": {
+			"none": "{} is laughing",
+			"others": "{} is laughing with {}",
+			"reason": "{} is laughing because {}",
+			"both": "{} is laughing with {} for {}"
+		}
+	},
+	"lick": {
+		"forms": {
+			"none": "{} is licking",
+			"others": "{} is licking {}",
+			"reason": "{} is licking {}",
+			"both": "{} is licking {} for {}"
+		}
+	},
+	"love": {
+		"forms": {
+			"none": "{} is loving",
+			"others": "{} is loving {}",
+			"reason": "{} is loving because {}",
+			"both": "{} is loving {} for {}"
+		}
+	},
+	"lurk": {
+		"forms": {
+			"none": "{} is lurking",
+			"others": "{} is lurking from {}",
+			"reason": "{} is lurking because {}",
+			"both": "{} is lurking from {} for {}"
+		}
+	},
+	"nervous": {
+		"forms": {
+			"none": "{} is nervous",
+			"others": "{} is nervous with {}",
+			"reason": "{} is nervous because {}",
+			"both": "{} is nervous with {} for {}"
+		}
+	},
+	"no": {
+		"forms": {
+			"none": "{} is saying no",
+			"others": "{} is saying no to {}",
+			"reason": "{} is saying no because {}",
+			"both": "{} is saying no to {} for {}"
+		}
+	},
+	"nom": {
+		"forms": {
+			"none": "{} is noming",
+			"others": "{} is noming {}",
+			"reason": "{} is noming because {}",
+			"both": "{} is noming {} for {}"
+		}
+	},
+	"nuzzle": {
+		"forms": {
+			"none": "{} is nuzzling",
+			"others": "{} is nuzzling {}",
+			"reason": "{} is nuzzling because {}",
+			"both": "{} is nuzzling {} for {}"
+		}
+	},
+	"panic": {
+		"forms": {
+			"none": "{} is panicking",
+			"others": "{} is panicking at {}",
+			"reason": "{} is panicking because {}",
+			"both": "{} is panicking at {} for {}"
+		}
+	},
+	"pat": {
+		"forms": {
+			"none": "{} is patting",
+			"others": "{} is patting {}",
+			"reason": "{} is patting because {}",
+			"both": "{} is patting {} for {}"
+		}
+	},
+	"peck": {
+		"forms": {
+			"none": "{} is pecking",
+			"others": "{} is pecking {}",
+			"reason": "{} is pecking because {}",
+			"both": "{} is pecking {} for {}"
+		}
+	},
+	"poke": {
+		"forms": {
+			"none": "{} is poking",
+			"others": "{} is poking {}",
+			"reason": "{} is poking because {}",
+			"both": "{} is poking {} for {}"
+		}
+	},
+	"pout": {
+		"forms": {
+			"none": "{} is pouting",
+			"others": "{} is pouting at {}",
+			"reason": "{} is pouting because {}",
+			"both": "{} is pouting at {} for {}"
+		}
+	},
+	"run": {
+		"forms": {
+			"none": "{} is running",
+			"others": "{} is running from {}",
+			"reason": "{} is running because {}",
+			"both": "{} is running from {} for {}"
+		}
+	},
+	"runs": {
+		"alias": "run"
+	},
+	"shoot": {
+		"forms": {
+			"none": "{} is shooting",
+			"others": "{} is shooting {}",
+			"reason": "{} is shooting because {}",
+			"both": "{} is shooting {} for {}"
+		}
+	},
+	"shrug": {
+		"forms": {
+			"none": "{} is shrugging",
+			"others": "{} is shrugging at {}",
+			"reason": "{} is shrugging because {}",
+			"both": "{} is shrugging at {} for {}"
+		}
+	},
+	"sip": {
+		"forms": {
+			"none": "{} is sipping",
+			"others": "{} is sipping with {}",
+			"reason": "{} is sipping because {}",
+			"both": "{} is sipping with {} for {}"
+		}
+	},
+	"slap": {
+		"forms": {
+			"none": "{} is slapping",
+			"others": "{} is slapping {}",
+			"reason": "{} is slapping because {}",
+			"both": "{} is slapping {} for {}"
+		}
+	},
+	"sleep": {
+		"forms": {
+			"none": "{} is sleeping",
+			"others": "{} is sleeping with {}",
+			"reason": "{} is sleeping because {}",
+			"both": "{} is sleeping {} for {}"
+		}
+	},
+	"sob": {
+		"alias": "sobs"
+	},
+	"sobs": {
+		"alias": "cry",
+		"forms": {
+			"none": "{} is sobbing",
+			"others": "{} is sobbing due to {}",
+			"reason": "{} is sobbing because {}",
+			"both": "{} is sobbing due to {} because {}"
+		}
+	},
+	"snuggle": {
+		"forms": {
+			"none": "{} is snuggling",
+			"others": "{} is snuggling {}",
+			"reason": "{} is snuggling because {}",
+			"both": "{} is snuggling {} for {}"
+		}
+	},
+	"stab": {
+		"forms": {
+			"none": "{} is stabbing",
+			"others": "{} is stabbing {}",
+			"reason": "{} is stabbing because {}",
+			"both": "{} is stabbing {} for {}"
+		}
+	},
+	"tease": {
+		"forms": {
+			"none": "{} is teasing",
+			"others": "{} is teasing {}",
+			"reason": "{} is teasing because {}",
+			"both": "{} is teasing {} for {}"
+		}
+	},
+	"think": {
+		"forms": {
+			"none": "{} is thinking",
+			"others": "{} is thinking with {}",
+			"reason": "{} is thinking because {}",
+			"both": "{} is thinking with {} for {}"
+		}
+	},
+	"thumbsup": {
+		"forms": {
+			"none": "{} is giving a thumbs up",
+			"others": "{} is giving a thumbs up to {}",
+			"reason": "{} is giving a thumbs up because {}",
+			"both": "{} is giving a thumbs up to {} for {}"
+		}
+	},
+	"tickle": {
+		"forms": {
+			"none": "{} is tickling",
+			"others": "{} is tickling {}",
+			"reason": "{} is tickling because {}",
+			"both": "{} is tickling {} for {}"
+		}
+	},
+	"triggered": {
+		"forms": {
+			"none": "{} is triggered",
+			"others": "{} is triggered by {}",
+			"reason": "{} is triggered because {}",
+			"both": "{} is triggered by {} because {}"
+		}
+	},
+	"twerk": {
+		"forms": {
+			"none": "{} is twerking",
+			"others": "{} is twerking with {}",
+			"reason": "{} is twerking because {}",
+			"both": "{} is twerking with {} because {}"
+		}
+	},
+	"wag": {
+		"forms": {
+			"none": "{} is wagging",
+			"others": "{} is wagging at {}",
+			"reason": "{} is wagging because {}",
+			"both": "{} is wagging at {} for {}"
+		}
+	},
+	"wave": {
+		"forms": {
+			"none": "{} is waving",
+			"others": "{} is waving at {}",
+			"reason": "{} is waving because {}",
+			"both": "{} is waving at {} for {}"
+		}
+	},
+	"wink": {
+		"forms": {
+			"none": "{} is winking",
+			"others": "{} is winking at {}",
+			"reason": "{} is winking because {}",
+			"both": "{} is winking at {} for {}"
+		}
+	},
+	"yes": {
+		"forms": {
+			"none": "{} is saying yes",
+			"others": "{} is saying yes to {}",
+			"reason": "{} is saying yes because {}",
+			"both": "{} is saying yes to {} for {}"
+		}
+	}
+}

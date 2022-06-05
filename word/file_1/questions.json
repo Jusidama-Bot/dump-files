@@ -1,0 +1,5081 @@
+[
+    {
+        "text": "How old are you?"
+    },
+    {
+        "text": "Whats your Birthday?"
+    },
+    {
+        "text": "What starsign does that make it?"
+    },
+    {
+        "text": "Whats your favourite colour?"
+    },
+    {
+        "text": "Whats your lucky number?"
+    },
+    {
+        "text": "Do you have any pets?"
+    },
+    {
+        "text": "Where are you from?"
+    },
+    {
+        "text": "How tall are you?"
+    },
+    {
+        "text": "What shoe size are you?"
+    },
+    {
+        "text": "How many pairs of shoes do you own?"
+    },
+    {
+        "text": "If you were prime miniser/ruler of the world what laws would you make?"
+    },
+    {
+        "text": "If you were a super hero what powers would you have? and what would your hero name be? and what outfit would you wear?"
+    },
+    {
+        "text": "What was your last dream about?"
+    },
+    {
+        "text": "What would you do if you won the lottery?"
+    },
+    {
+        "text": "Would you like to build/design your own house?"
+    },
+    {
+        "text": "Which form of public transport do you prefer?"
+    },
+    {
+        "text": "What talents do you have?"
+    },
+    {
+        "text": "Can you juggle?"
+    },
+    {
+        "text": "Can you solve a rubix cube?"
+    },
+    {
+        "text": "Do you have a cherished childhood teddybear?"
+    },
+    {
+        "text": "Are you psychic in any way?"
+    },
+    {
+        "text": "Are you a good dancer?"
+    },
+    {
+        "text": "Are you a good singer?"
+    },
+    {
+        "text": "Are you a good cook?"
+    },
+    {
+        "text": "Are you a good artist?"
+    },
+    {
+        "text": "Are you a good listener?"
+    },
+    {
+        "text": "Are you a good public speaker?"
+    },
+    {
+        "text": "Are you a good babysitter?"
+    },
+    {
+        "text": "Are you a good mechanic?"
+    },
+    {
+        "text": "Are you a good diplomat?"
+    },
+    {
+        "text": "Are you a good employee?"
+    },
+    {
+        "text": "Are you a good dresser?"
+    },
+    {
+        "text": "Are you a good swimmer?"
+    },
+    {
+        "text": "Are you a good skier?"
+    },
+    {
+        "text": "Are you a good lover?"
+    },
+    {
+        "text": "Are you a good musician?"
+    },
+    {
+        "text": "Are you a good comedian?"
+    },
+    {
+        "text": "Are you a good cleaner?"
+    },
+    {
+        "text": "Are you a good actor?"
+    },
+    {
+        "text": "Are you a good writer?"
+    },
+    {
+        "text": "Have you ever been bungee jumping?"
+    },
+    {
+        "text": "Have you ever been canoeing/kayaking?"
+    },
+    {
+        "text": "What types of holidays do you prefer?"
+    },
+    {
+        "text": "Whats the furthest you've ever been on holiday?"
+    },
+    {
+        "text": "What was your favourite holiday?"
+    },
+    {
+        "text": "Where would your dream holiday be?"
+    },
+    {
+        "text": "Can you tap dance?"
+    },
+    {
+        "text": "Whats your favourite zoo animal?"
+    },
+    {
+        "text": "Whats your favourite sport?"
+    },
+    {
+        "text": "Whats your favourite food?"
+    },
+    {
+        "text": "Whats your favourite pizza topping?"
+    },
+    {
+        "text": "Whats your favourite film?"
+    },
+    {
+        "text": "Whats your favourite song?"
+    },
+    {
+        "text": "Whats your favourite alcoholic drink?"
+    },
+    {
+        "text": "Whats your favourite non-alcoholic drink?"
+    },
+    {
+        "text": "Whats your favourite TV program?"
+    },
+    {
+        "text": "Whats your favourite boyband?"
+    },
+    {
+        "text": "Whats your favourite girl group?"
+    },
+    {
+        "text": "What would be your ideal partner?"
+    },
+    {
+        "text": "Do you want children?"
+    },
+    {
+        "text": "Do you want a church wedding?"
+    },
+    {
+        "text": "Are you religious?"
+    },
+    {
+        "text": "Do you like reality TV programs?"
+    },
+    {
+        "text": "Do you like TV talent shows?"
+    },
+    {
+        "text": "If you were gay who would your life partner be?"
+    },
+    {
+        "text": "If you could go back in time to change one thing what would it be?"
+    },
+    {
+        "text": "How many hats do you own?"
+    },
+    {
+        "text": "Are you any good at pool?"
+    },
+    {
+        "text": "Whats the highest you've ever jumped into the water from?"
+    },
+    {
+        "text": "Have you ever been admitted to hospital?"
+    },
+    {
+        "text": "Have you ever had any brushes with the law?"
+    },
+    {
+        "text": "Have you ever been on TV?"
+    },
+    {
+        "text": "Have you ever met any celebrities?"
+    },
+    {
+        "text": "Have you ever been to Legoland?"
+    },
+    {
+        "text": "Have you ever done something heroic?"
+    },
+    {
+        "text": "Have you ever played a practical joke on anyone?"
+    },
+    {
+        "text": "Have you ever been the recipiant of a practical joke?"
+    },
+    {
+        "text": "What would be your best achievement to date?"
+    },
+    {
+        "text": "Do you prefer baths or showers?"
+    },
+    {
+        "text": "Do you prefer towel drying, blow drying or natural dryin your hair?"
+    },
+    {
+        "text": "Have you ever built a snowman?"
+    },
+    {
+        "text": "Have you ever been sledging?"
+    },
+    {
+        "text": "Have you ever flown a kite?"
+    },
+    {
+        "text": "What colour socks are you wearing?"
+    },
+    {
+        "text": "If you could live anywhere, where would that be?"
+    },
+    {
+        "text": "Have you ever been famous?"
+    },
+    {
+        "text": "Would you like to be a big celebrity?"
+    },
+    {
+        "text": "Would you ever go on Big Brother?"
+    },
+    {
+        "text": "How big is your TV?"
+    },
+    {
+        "text": "What is your most essential appliance?"
+    },
+    {
+        "text": "What type of music do you like?"
+    },
+    {
+        "text": "Have you ever been skinnydipping?"
+    },
+    {
+        "text": "How many Pillows do you sleep with?"
+    },
+    {
+        "text": "What position do you often sleep in?"
+    },
+    {
+        "text": "What do you wear to bed?"
+    },
+    {
+        "text": "How big is your house?"
+    },
+    {
+        "text": "Do you prefer sunrises or sunsets?"
+    },
+    {
+        "text": "What do you typically have for breakfast?"
+    },
+    {
+        "text": "Do you like scary movies?"
+    },
+    {
+        "text": "Whats your favourite Milkshake flavour?"
+    },
+    {
+        "text": "Have you ever been in a newspaper?"
+    },
+    {
+        "text": "How long can you balance on one foot?"
+    },
+    {
+        "text": "Have you ever fired a gun?"
+    },
+    {
+        "text": "Have you ever tried archery?"
+    },
+    {
+        "text": "Whats your favourite condement?"
+    },
+    {
+        "text": "Whats your favourite clean word?"
+    },
+    {
+        "text": "Whats your favourite swear word?"
+    },
+    {
+        "text": "Whats your least favourite word?"
+    },
+    {
+        "text": "What was the last film you saw?"
+    },
+    {
+        "text": "What football team do you support?"
+    },
+    {
+        "text": "Whats the longest you've gone without sleep?"
+    },
+    {
+        "text": "Whats the tallest building you've ever been up?"
+    },
+    {
+        "text": "Do you have any scars?"
+    },
+    {
+        "text": "Do you like marmite?"
+    },
+    {
+        "text": "Did you ever win any sportsday events?"
+    },
+    {
+        "text": "What did you want to be when you grew up?"
+    },
+    {
+        "text": "If you could change anything about yourself what would it be?"
+    },
+    {
+        "text": "Whats the longest you've ever grown your hair?"
+    },
+    {
+        "text": "Are you scared of flying?"
+    },
+    {
+        "text": "Would you rather trade some intelligence for looks or looks for intelligence?"
+    },
+    {
+        "text": "Have you ever tie-dyed your own clothes?"
+    },
+    {
+        "text": "How often do you buy new clothes?"
+    },
+    {
+        "text": "Are you reliable?"
+    },
+    {
+        "text": "Are you proud of yourself?"
+    },
+    {
+        "text": "Have you ever had a secret admirer"
+    },
+    {
+        "text": "If you could ask your future self one question what would it be?"
+    },
+    {
+        "text": "Do you hold grudges?"
+    },
+    {
+        "text": "If you could breed two animals together to defy the laws of nature what new animal would you create?"
+    },
+    {
+        "text": "Do you decorate the outside of your house for christmas?"
+    },
+    {
+        "text": "Can you solve sudoko puzzles?"
+    },
+    {
+        "text": "Have you ever played conkers?"
+    },
+    {
+        "text": "Whats the most unusual conversation you've ever had?"
+    },
+    {
+        "text": "Are you much of a gambler?"
+    },
+    {
+        "text": "Are you much of a daredevil?"
+    },
+    {
+        "text": "Are you a good liar?"
+    },
+    {
+        "text": "Are you a good judge of character?"
+    },
+    {
+        "text": "Are you any good at charades?"
+    },
+    {
+        "text": "How long could you go without talking?"
+    },
+    {
+        "text": "What has been your worst haircut/style?"
+    },
+    {
+        "text": "Can you iceskate?"
+    },
+    {
+        "text": "Can you summersault?"
+    },
+    {
+        "text": "Whats your favourite joke?"
+    },
+    {
+        "text": "Whats been your best present?"
+    },
+    {
+        "text": "Whats been your worst present?"
+    },
+    {
+        "text": "Have you ever sleepwalked?"
+    },
+    {
+        "text": "Can you build a house of cards?"
+    },
+    {
+        "text": "Whats your favourite TV advert?"
+    },
+    {
+        "text": "Can you play poker?"
+    },
+    {
+        "text": "If your parents hated your partner you currently loved would you ditch him or carry on with him despite the protests?"
+    },
+    {
+        "text": "Have you ever been professionally photographed?"
+    },
+    {
+        "text": "Have you ever baked your own cake?"
+    },
+    {
+        "text": "Whats your favourite fruit pastel colour?"
+    },
+    {
+        "text": "What traditionally adorns the top of your christmas tree?"
+    },
+    {
+        "text": "What would be your dream sandwich?"
+    },
+    {
+        "text": "Can you inpersonate anyone famous?"
+    },
+    {
+        "text": "Can you do any accents other than your own?"
+    },
+    {
+        "text": "Do you have a strong local accent?"
+    },
+    {
+        "text": "Whats your favourite accent?"
+    },
+    {
+        "text": "In O's and X's which do you normally pick?"
+    },
+    {
+        "text": "Do you prefer blue or black inked pens?"
+    },
+    {
+        "text": "What was the last thing you recorded off TV?"
+    },
+    {
+        "text": "What was the last thing you dressed up as for fancy dress?"
+    },
+    {
+        "text": "Do you prefer green or red grapes?"
+    },
+    {
+        "text": "What do you like on your toast?"
+    },
+    {
+        "text": "Do you prefer liquid soap or bars of soap?"
+    },
+    {
+        "text": "How do you have your eggs?"
+    },
+    {
+        "text": "Whats your favourite saying?"
+    },
+    {
+        "text": "Have you ever been in a tug of war? and did you win?"
+    },
+    {
+        "text": "Can you stand on your hands unassisted?"
+    },
+    {
+        "text": "What do you have on your fridge door?"
+    },
+    {
+        "text": "Do you love or hate myspace?"
+    },
+    {
+        "text": "Who was the last person to knock/ring at your door?"
+    },
+    {
+        "text": "How old were you when you last went trick or treating?"
+    },
+    {
+        "text": "Have you ever been bobbing for apples?"
+    },
+    {
+        "text": "Whats your most expensive piece of clothing?"
+    },
+    {
+        "text": "Whats the last thing you took a picture of?"
+    },
+    {
+        "text": "Whats the last thing you drew a picture of?"
+    },
+    {
+        "text": "Have you ever bought anything from ebay?"
+    },
+    {
+        "text": "Whats your favourite smell/scent?"
+    },
+    {
+        "text": "Can you blow bubbles with bubblegum?"
+    },
+    {
+        "text": "What was your favourite birthday?"
+    },
+    {
+        "text": "Can you curl your tounge?"
+    },
+    {
+        "text": "Is your bellybutton an innie or outie?"
+    },
+    {
+        "text": "What would be your dream car?"
+    },
+    {
+        "text": "Are you left or right handed?"
+    },
+    {
+        "text": "What was the last book you read?"
+    },
+    {
+        "text": "What was the last song you danced to?"
+    },
+    {
+        "text": "Have you ever owned a yo-yo?"
+    },
+    {
+        "text": "Have you ever been on a pogo stick?"
+    },
+    {
+        "text": "Have you ever been on a space hopper?"
+    },
+    {
+        "text": "Who was the last person to send you a text message?"
+    },
+    {
+        "text": "Have you ever accidentally injured anyone?"
+    },
+    {
+        "text": "Are you scared of spiders?"
+    },
+    {
+        "text": "in one?"
+    },
+    {
+        "text": "Have you ever been banned from a public place?"
+    },
+    {
+        "text": "How much spam email do you tend to get a week?"
+    },
+    {
+        "text": "If you could learn any language fluently what would it be?"
+    },
+    {
+        "text": "What historical Figure would you love to see in 21st centuary life?"
+    },
+    {
+        "text": "As a kid were you ever frighted of a monster under the bed or in the cupboard?"
+    },
+    {
+        "text": "Do you like clowns?"
+    },
+    {
+        "text": "Do you prefer BBC or ITV?"
+    },
+    {
+        "text": "Have you ever been surfing?"
+    },
+    {
+        "text": "Have you ever been snowboarding?"
+    },
+    {
+        "text": "Who was better, the Beatles or Elvis Presley?"
+    },
+    {
+        "text": "Whats your favourite type of foreign food?"
+    },
+    {
+        "text": "Which Foreign country do you dislike the most?"
+    },
+    {
+        "text": "Do you like your music loud or easy listening?"
+    },
+    {
+        "text": "Whats your favourite animated or cartoon program?"
+    },
+    {
+        "text": "Do you sing in the shower?"
+    },
+    {
+        "text": "Are you a clean or messy person?"
+    },
+    {
+        "text": "Whats your prefered playing piece in monopoly?"
+    },
+    {
+        "text": "Can or Do you still play twister?"
+    },
+    {
+        "text": "Can you play chess?"
+    },
+    {
+        "text": "Do you know the dance steps to an annoying cheesey pop song?"
+    },
+    {
+        "text": "Do you prefer straight or bendy straws?"
+    },
+    {
+        "text": "Have you ever entered a talent contest? and did you win?"
+    },
+    {
+        "text": "Do you like poetry?"
+    },
+    {
+        "text": "Are you a bad loser?"
+    },
+    {
+        "text": "Which would you choose? Jelly or Ice Cream?"
+    },
+    {
+        "text": "Whats your favourite type of Pie?"
+    },
+    {
+        "text": "Whats your most used phrase?"
+    },
+    {
+        "text": "Whats your most used word?"
+    },
+    {
+        "text": "Who would you want to play you in a movie of your life?"
+    },
+    {
+        "text": "What would your dream job be?"
+    },
+    {
+        "text": "Which song do you hate the most?"
+    },
+    {
+        "text": "How long does it take you to get ready?"
+    },
+    {
+        "text": "What do you think the greatest invention has been?"
+    },
+    {
+        "text": "Whats your favourite feature on the opposite sex?"
+    },
+    {
+        "text": "Whats your least favourite feature on the opposite sex?"
+    },
+    {
+        "text": "Who's your favourite Comedian?"
+    },
+    {
+        "text": "What's your favourite board game?"
+    },
+    {
+        "text": "Do you have any lucky items, objects or traditions?"
+    },
+    {
+        "text": "Do you have any superstitions?"
+    },
+    {
+        "text": "Whats your favourite Movie quote?"
+    },
+    {
+        "text": "Who would win in a fight? Chuck Norris or Jack Bauer?"
+    },
+    {
+        "text": "Do you have much of an ego?"
+    },
+    {
+        "text": "Do you wear sunglasses indoors to look cool or stylish?"
+    },
+    {
+        "text": "Are you a hat person?"
+    },
+    {
+        "text": "Whats your favourite supermarket chain?"
+    },
+    {
+        "text": "Whats your favourite fastfood chain?"
+    },
+    {
+        "text": "Whats your first thought upon waking up?"
+    },
+    {
+        "text": "What animal would you most like to have as a pet?"
+    },
+    {
+        "text": "Whats your favourite type of tree?"
+    },
+    {
+        "text": "If you could bankrupt one person or company who would it be?"
+    },
+    {
+        "text": "If you could steal one thing without consequence what would it be?"
+    },
+    {
+        "text": "Who's your favourite celeb with the same first name or surname as you?"
+    },
+    {
+        "text": "If evil-doers invaded your country would you rush to the battlelines to defend the motherland or hide in a box?"
+    },
+    {
+        "text": "Whats your favourite flower?"
+    },
+    {
+        "text": "Do you believe in ghosts?"
+    },
+    {
+        "text": "Do you believe in the loch ness monster?"
+    },
+    {
+        "text": "Do you believe in Aliens?"
+    },
+    {
+        "text": "Do you believe the Governments hide technology and information from the public?"
+    },
+    {
+        "text": "Which is your favourite pokemon?"
+    },
+    {
+        "text": "What horror fiction character scares you the most?"
+    },
+    {
+        "text": "Can you do 10 revolutions of a hula hoop?"
+    },
+    {
+        "text": "Do you think Great Britain should have a National Day?"
+    },
+    {
+        "text": "Do you think Great Britain should be part of a United Europe?"
+    },
+    {
+        "text": "Would you want the Euro or keep the British Pound?"
+    },
+    {
+        "text": "Were you part of the Brownies/Cubs/Scouts/Guides etc"
+    },
+    {
+        "text": "Have you ever invented a fairly unique meal or drink?"
+    },
+    {
+        "text": "Do you have any secret family recipes?"
+    },
+    {
+        "text": "Do you have any family secrets? :o"
+    },
+    {
+        "text": "Are you good at keeping secrets?"
+    },
+    {
+        "text": "Have you ever been up in a hot air balloon?"
+    },
+    {
+        "text": "Whats your favourite Sci-fi film/program etc?"
+    },
+    {
+        "text": "When playing checkers or chess do you prefer to be black or white?"
+    },
+    {
+        "text": "Which is better, a Pastie or Sausage Roll?"
+    },
+    {
+        "text": "Do you prefer shopping on the high street or online?"
+    },
+    {
+        "text": "Would you ever want to learn to fly?"
+    },
+    {
+        "text": "Do you often read your horoscope?"
+    },
+    {
+        "text": "Have you ever had a proper Tarot reading?"
+    },
+    {
+        "text": "Whats your favourite brand of newspaper?"
+    },
+    {
+        "text": "Have you ever milked a cow?"
+    },
+    {
+        "text": "Have you ever used the phrase \"back in my time\" to someone younger than you?"
+    },
+    {
+        "text": "Do you love or hate rollercoasters?"
+    },
+    {
+        "text": "Which was the greatest Empire?"
+    },
+    {
+        "text": "Whats the cleverest word you know?"
+    },
+    {
+        "text": "Whats your favourite sportsware brand?"
+    },
+    {
+        "text": "Do you buy any weekly/monthly magazines?"
+    },
+    {
+        "text": "Who's your favourite Superhero?"
+    },
+    {
+        "text": "Who's your favourite Villain/Baddie?"
+    },
+    {
+        "text": "What was the last Album you purchased?"
+    },
+    {
+        "text": "What was the last DVD you purchased?"
+    },
+    {
+        "text": "What was the last piece of clothing you purchased?"
+    },
+    {
+        "text": "When pulling crackers does everyone get one each regardless or whoever gets the big ends keeps all the prizes"
+    },
+    {
+        "text": "Do you ever make your own greetings cards"
+    },
+    {
+        "text": "Do you have a swiss army knife?"
+    },
+    {
+        "text": "At what age did you twig onto the fact Santa wasnt real?"
+    },
+    {
+        "text": "Whats your favourite fruit?"
+    },
+    {
+        "text": "Have you ever done something really unbelivable, only to have no one around to see it?"
+    },
+    {
+        "text": "Do you buy from charity shops?"
+    },
+    {
+        "text": "Have you ever sold your services?"
+    },
+    {
+        "text": "Have you ever raised money for charity?"
+    },
+    {
+        "text": "Have you ever won a giant sized cuddly toy from a fair?"
+    },
+    {
+        "text": "Is the glass half full or half empty?"
+    },
+    {
+        "text": "Is the grass greener on the other side?"
+    },
+    {
+        "text": "If a tree falls in the forest and there's no one around to hear it does it make a noise?"
+    },
+    {
+        "text": "Why does it always rain on me?"
+    },
+    {
+        "text": "Have you ever sailed a boat?"
+    },
+    {
+        "text": "Do you love or loathe Harry Potter?"
+    },
+    {
+        "text": "Do you do your utmost for the environment?"
+    },
+    {
+        "text": "Do you love or loather Eurovison?"
+    },
+    {
+        "text": "Have you ever weilded a sword?"
+    },
+    {
+        "text": "If you were famous would you want a statue or a building names after you?"
+    },
+    {
+        "text": "Whats your favourite type of fish?"
+    },
+    {
+        "text": "Which do you prefer pony tails or pig tails?"
+    },
+    {
+        "text": "Whats the ultimate cake topping?"
+    },
+    {
+        "text": "Do you like marzipan?"
+    },
+    {
+        "text": "Whats better? Center Parks or Butlins?"
+    },
+    {
+        "text": "If you were in a band, what instrument/role would you play?"
+    },
+    {
+        "text": "Can you erect a tent?"
+    },
+    {
+        "text": "Do you suck or bite lollipops?"
+    },
+    {
+        "text": "Have you ever used the yellow pages?"
+    },
+    {
+        "text": "If you have an mp3 player what size is it?"
+    },
+    {
+        "text": "Do you still have any music on vinyl or casettes?"
+    },
+    {
+        "text": "Do you still have a camera that uses conventional film?"
+    },
+    {
+        "text": "Approximately how many DVD's do you have?"
+    },
+    {
+        "text": "Approximately how many Albums do you have?"
+    },
+    {
+        "text": "Do you talk to yourself?"
+    },
+    {
+        "text": "Do you sing to yourself?"
+    },
+    {
+        "text": "Do you know any identical twins?"
+    },
+    {
+        "text": "Have you ever given blood?"
+    },
+    {
+        "text": "Could you ever be a medical guineapig?"
+    },
+    {
+        "text": "Whats your favourite radio station?"
+    },
+    {
+        "text": "Whats your favourite letter of the Alphabet?"
+    },
+    {
+        "text": "Which is better? rollerblade or rollerskates?"
+    },
+    {
+        "text": "Have you ever written a love letter?"
+    },
+    {
+        "text": "How many valentines cards did you recieve this/last year?"
+    },
+    {
+        "text": "What are cooler? Dinosaurs or Dragons?"
+    },
+    {
+        "text": "Have you ever made your own ice lollies?"
+    },
+    {
+        "text": "Have you ever made your own Ice cream?"
+    },
+    {
+        "text": "Which forgeign language did you have to learn at school? and do you still remember enough to hold a conversation in that language?"
+    },
+    {
+        "text": "Do you know CPR?"
+    },
+    {
+        "text": "Do you have any swimming badges?"
+    },
+    {
+        "text": "Do you prefer digital or rotary/analogue clocks?"
+    },
+    {
+        "text": "How tall is the tallest person you know?"
+    },
+    {
+        "text": "Have you ever got lost in a maze?"
+    },
+    {
+        "text": "Have you ever been attacked by a wild animal?"
+    },
+    {
+        "text": "Have you ever ridden a camel?"
+    },
+    {
+        "text": "Whats your opinion on rats?"
+    },
+    {
+        "text": "Have you ever been to a gym?"
+    },
+    {
+        "text": "Have you ever been in a helicopter?"
+    },
+    {
+        "text": "Have you ever cheated at a test?"
+    },
+    {
+        "text": "Have you ever ridden a tractor?"
+    },
+    {
+        "text": "Are you a gossip?"
+    },
+    {
+        "text": "Have you ever cried at a film?"
+    },
+    {
+        "text": "When you're ill do you struggle on regardless or just curl up in bed as"
+    },
+    {
+        "text": "much as possible?"
+    },
+    {
+        "text": "Do you need to write down things to remember them?"
+    },
+    {
+        "text": "Do you keep a diary/journal?"
+    },
+    {
+        "text": "Are you scared of thunderstorms?"
+    },
+    {
+        "text": "Do you have any unusual fears or phobias?"
+    },
+    {
+        "text": "Whats your favourite disney movie?"
+    },
+    {
+        "text": "Have you ever slept in a caravan?"
+    },
+    {
+        "text": "Have you ever painted a house?"
+    },
+    {
+        "text": "Have you got green fingers?"
+    },
+    {
+        "text": "Whats the tallest tree you've ever climbed?"
+    },
+    {
+        "text": "Have you ever dialed the talking clock?"
+    },
+    {
+        "text": "Do you always wear identical socks?"
+    },
+    {
+        "text": "Do you live by any motto or philosophy?"
+    },
+    {
+        "text": "Do you lick the yoghurt or desert lid?"
+    },
+    {
+        "text": "Do you lick the spoon clean after making something sweet?"
+    },
+    {
+        "text": "Have you ever made your own orangejuice?"
+    },
+    {
+        "text": "Have you ever sucked on a lemon?"
+    },
+    {
+        "text": "Have you ever licked a battery?"
+    },
+    {
+        "text": "Are you a good aim with a rubber band?"
+    },
+    {
+        "text": "Have you ever played golf?"
+    },
+    {
+        "text": "Whats the most unusual name you've ever come across?"
+    },
+    {
+        "text": "Do you prefer to wash in the mornings or evenings?"
+    },
+    {
+        "text": "Have you ever danced in the rain?"
+    },
+    {
+        "text": "Do you like long or short hair?"
+    },
+    {
+        "text": "Have you ever sworn at an authority figure?"
+    },
+    {
+        "text": "Have you ever walked into a wall?"
+    },
+    {
+        "text": "Whats your favourite precious metal?"
+    },
+    {
+        "text": "Whats your favourite precious stone?"
+    },
+    {
+        "text": "Could you ever hunt your own meal?"
+    },
+    {
+        "text": "Have you ever read any comics?"
+    },
+    {
+        "text": "Where do you like to go to on a first date?"
+    },
+    {
+        "text": "Do you prefer vertical or horizontal stripes?"
+    },
+    {
+        "text": "Have you ever baked your own bread?"
+    },
+    {
+        "text": "Can you believe I can't believe its not butter is in fact not actually butter?"
+    },
+    {
+        "text": "Can you name all 50 American states?"
+    },
+    {
+        "text": "Have you ever owned a goldfish?"
+    },
+    {
+        "text": "What was your favourite school subject?"
+    },
+    {
+        "text": "What was your least favourite school subject?"
+    },
+    {
+        "text": "Have you ever passed wind in an embarassing situation?"
+    },
+    {
+        "text": "Have you ever played the bongos?"
+    },
+    {
+        "text": "Have you ever handled a snake?"
+    },
+    {
+        "text": "Have you ever assembled furniture by yourself?"
+    },
+    {
+        "text": "When did you last go to the beach?"
+    },
+    {
+        "text": "When if ever did you last go to london?"
+    },
+    {
+        "text": "What do you do to cool down when its hot?"
+    },
+    {
+        "text": "Whats the most unusual thing you've ever eaten?"
+    },
+    {
+        "text": "Do you have a favourite mug?"
+    },
+    {
+        "text": "Do you know any self defence or martial arts?"
+    },
+    {
+        "text": "Who's your favourite movie action hero?"
+    },
+    {
+        "text": "Have you ever ridden a motorcycle?"
+    },
+    {
+        "text": "Do you collect anything?"
+    },
+    {
+        "text": "Is there anything you wished would come back into fashion?"
+    },
+    {
+        "text": "Do you stick to conventional fashions or like to try and be original?"
+    },
+    {
+        "text": "Have you ever given someone a handmade present?"
+    },
+    {
+        "text": "Are you introvert or extrovert?"
+    },
+    {
+        "text": "If you could have any feature from an animal what would you want?"
+    },
+    {
+        "text": "Whats your prefered swimming stroke?"
+    },
+    {
+        "text": "Have you ever been scuba diving?"
+    },
+    {
+        "text": "Have you ever had a disasterous interview?"
+    },
+    {
+        "text": "What makes you nervous?"
+    },
+    {
+        "text": "Which of the 5 senses would you say is your strongest?"
+    },
+    {
+        "text": "What colour are your eyes?"
+    },
+    {
+        "text": "Have you ever been to an Art gallery?"
+    },
+    {
+        "text": "Do you shout out the answers at the TV whilst watching quiz shows?"
+    },
+    {
+        "text": "Are you a valuable asset on a Pub Quiz team?"
+    },
+    {
+        "text": "Have you ever won any kind of quiz yourself?"
+    },
+    {
+        "text": "Do you get over-involved with TV or movie plots at times?"
+    },
+    {
+        "text": "Do you own any inflatable furniture?"
+    },
+    {
+        "text": "Whats the highest hill or mountain you've ever climbed?"
+    },
+    {
+        "text": "Do you have a piggy bank?"
+    },
+    {
+        "text": "Whats the fastest you've ever travelled in a car?"
+    },
+    {
+        "text": "Could you ever hand milk a cow?"
+    },
+    {
+        "text": "Do you have popcorn with a movie?"
+    },
+    {
+        "text": "Whats the futhest you've ever got a paper airplane to fly?"
+    },
+    {
+        "text": "Have you ever built an igloo?"
+    },
+    {
+        "text": "Can you play the harmonica?"
+    },
+    {
+        "text": "Have you ever made a ball of twine or rubberbands?"
+    },
+    {
+        "text": "If given the option of having a flake in your ice cream do you always take it?"
+    },
+    {
+        "text": "Could you ever be a living organ donor?"
+    },
+    {
+        "text": "Which was your favourite science? Biology, Physics or Chemistry?"
+    },
+    {
+        "text": "Could you ever go out with someone just cause they're rich?"
+    },
+    {
+        "text": "Have you ever contemplated sueing someone?"
+    },
+    {
+        "text": "Are you pretty devious?"
+    },
+    {
+        "text": "Are you any good at giving massages?"
+    },
+    {
+        "text": "Whats been your worst date ever?"
+    },
+    {
+        "text": "Have you ever slapped somoene in public?"
+    },
+    {
+        "text": "Have you ever drawn on a sleeping or inebriated person?"
+    },
+    {
+        "text": "Have you ever warn clothing with the labels/tags still attached?"
+    },
+    {
+        "text": "Have you ever slipped on a banana skin?"
+    },
+    {
+        "text": "Are you scared of the dark?"
+    },
+    {
+        "text": "Do you have a lawyer?"
+    },
+    {
+        "text": "Have you ever been wolf whistled in public?"
+    },
+    {
+        "text": "Whats the worst chatup line you've heard?"
+    },
+    {
+        "text": "Have you ever been water skiing?"
+    },
+    {
+        "text": "Have you ever hopelessly failed a test?"
+    },
+    {
+        "text": "If you had a year off, what would you want to do?"
+    },
+    {
+        "text": "How many sms/txt messages do you recieve on average a day?"
+    },
+    {
+        "text": "How long did you last phone call last?"
+    },
+    {
+        "text": "Do you go to car boot sales?"
+    },
+    {
+        "text": "If you saw someone drop a \u00a310 note, would you claim it for your own or try to return it to them?"
+    },
+    {
+        "text": "Have you ever helped someone across the road?"
+    },
+    {
+        "text": "Have you ever been horseriding?"
+    },
+    {
+        "text": "Have you ever walked a tightrope?"
+    },
+    {
+        "text": "Have you ever demolished a wall or building?"
+    },
+    {
+        "text": "If you and a friend both wanted the same thing would you let the friend get it first?"
+    },
+    {
+        "text": "Have you ever argued over who should pay for something?"
+    },
+    {
+        "text": "Do you have any family heirlooms?"
+    },
+    {
+        "text": "Are you related or distantly related to anyone famous?"
+    },
+    {
+        "text": "Whats your favourite ocean?"
+    },
+    {
+        "text": "Do you correct peoples mistakes?"
+    },
+    {
+        "text": "Have you ever helped out an injured animal?"
+    },
+    {
+        "text": "Do you throw bread for the ducks?"
+    },
+    {
+        "text": "Do you think babies are little bundles of joy or smelly noisey things?"
+    },
+    {
+        "text": "Do you give money to buskers?"
+    },
+    {
+        "text": "Have you ever tossed your own pancake?"
+    },
+    {
+        "text": "Are you any good at egg and spoon races?"
+    },
+    {
+        "text": "Are you allergic to anything?"
+    },
+    {
+        "text": "Are you ticklish?"
+    },
+    {
+        "text": "Do you prefer tea,coffee or cocoa?"
+    },
+    {
+        "text": "Do you like Turkish Delight?"
+    },
+    {
+        "text": "Do you buy people presents to bring back when you go on holiday?"
+    },
+    {
+        "text": "Are you tired of answering questions yet?"
+    },
+    {
+        "text": "Have you ever been wheelbarrow racing?"
+    },
+    {
+        "text": "Do you ever forward or reply to chain mails?"
+    },
+    {
+        "text": "Do you often have a tune in your head you can't name?"
+    },
+    {
+        "text": "Has anyone ever approached you thinking you were someone else?"
+    },
+    {
+        "text": "Have you ever been approached by someone who knew you but you couldn't remember them for the life of you?"
+    },
+    {
+        "text": "What do you do to keep fit?"
+    },
+    {
+        "text": "Are you the sort to step in and try to break up a fight?"
+    },
+    {
+        "text": "Have you ever been in a fight?"
+    },
+    {
+        "text": "Have you ever started a rumour?"
+    },
+    {
+        "text": "Have you ever heard any outstanding rumours about yourself?"
+    },
+    {
+        "text": "Have you ever been in or had a food fight?"
+    },
+    {
+        "text": "When its your birthday do you always wear an age badge?"
+    },
+    {
+        "text": "Have you ever starred in an amateur or professional video?"
+    },
+    {
+        "text": "If you were comfortbly rich would you work hard for more or rest on your laurels?"
+    },
+    {
+        "text": "Have you ever been in a position of authority?"
+    },
+    {
+        "text": "Have you ever been caught in a comprimising position? even despite a valid explanation?"
+    },
+    {
+        "text": "Have you ever tried to make your own alcohol?"
+    },
+    {
+        "text": "If you were ruler of your own country what would you call it?"
+    },
+    {
+        "text": "And what title would you give yourself?"
+    },
+    {
+        "text": "If you invented a monster what would you call it?"
+    },
+    {
+        "text": "And what features would it have?"
+    },
+    {
+        "text": "Have you ever had a dream you chased only to be let down when you achived it?"
+    },
+    {
+        "text": "Is there anything about the opposite sex you just don't understand or comprehend?"
+    },
+    {
+        "text": "Who was your favourite teacher at school and why?"
+    },
+    {
+        "text": "Whats your favourite party game?"
+    },
+    {
+        "text": "Is it acceptable or unacceptable to smack a child as form of disapline?"
+    },
+    {
+        "text": "Can a hetrosexual male ever wear pink?"
+    },
+    {
+        "text": "Is it criminal to wear socks with sandals?"
+    },
+    {
+        "text": "If you were captain of a ship, what would you call it?"
+    },
+    {
+        "text": "If you were to join an emergency service which would it be?"
+    },
+    {
+        "text": "If you were to join one of the armed forced which would it be?"
+    },
+    {
+        "text": "Whats the worst thing about being your gender?"
+    },
+    {
+        "text": "Whats the best thing about being your gender?"
+    },
+    {
+        "text": "If you swapped genders for a day how would you spend it?"
+    },
+    {
+        "text": "If you were exiled what country would you choose as your new home?"
+    },
+    {
+        "text": "Have you ever made someone cry?"
+    },
+    {
+        "text": "Have you ever starred in a school play?"
+    },
+    {
+        "text": "Were you a member of any celebrity fanclub?"
+    },
+    {
+        "text": "Have you ever been a member of any other club?"
+    },
+    {
+        "text": "If you could have a full scholarship to any university what would you choose to study?"
+    },
+    {
+        "text": "Whats been your greatest ever day?"
+    },
+    {
+        "text": "What historical period would you like to live in if you could go back in time?"
+    },
+    {
+        "text": "What would you bring along to an idillic picnic?"
+    },
+    {
+        "text": "Whats your favourite childrens story?"
+    },
+    {
+        "text": "What movie ending really frustrated you? And how would you change it?"
+    },
+    {
+        "text": "What three things do you think of most each day?"
+    },
+    {
+        "text": "What do you call your evening meal? Dinner Tea or Supper?"
+    },
+    {
+        "text": "What do you call your after meal sweet? Pudding or Dessert?"
+    },
+    {
+        "text": "If you had a warning label, what would yours say?"
+    },
+    {
+        "text": "Have you ever got sweet revenge on anyone?"
+    },
+    {
+        "text": "Have you ever been to a live concert?"
+    },
+    {
+        "text": "Have you ever been to see stand up comedy?"
+    },
+    {
+        "text": "Have you ever needed stitches?"
+    },
+    {
+        "text": "If you could invent brand new baby names what would they be?"
+    },
+    {
+        "text": "Do your dreams ever tell you to do anything?"
+    },
+    {
+        "text": "Who's your favourite radio 1 DJ?"
+    },
+    {
+        "text": "Whats the best way to your heart?"
+    },
+    {
+        "text": "Do you know your own mobile phone number off by heart?"
+    },
+    {
+        "text": "If you were a fashion designer, what style of clothing or accessories would you design?"
+    },
+    {
+        "text": "Do you ever laugh at things you shouldn't?"
+    },
+    {
+        "text": "Have you ever been in a submarine?"
+    },
+    {
+        "text": "Have you ever walked out of a cinema before the film was done?"
+    },
+    {
+        "text": "What song would you say best sums you up?"
+    },
+    {
+        "text": "Do you have any old friends wou wish you could meet up with again?"
+    },
+    {
+        "text": "Whats your favourite Nursury Rhyme?"
+    },
+    {
+        "text": "Do you prefer metric or imperial measurements?"
+    },
+    {
+        "text": "Who's your favourite monarch of all time?"
+    },
+    {
+        "text": "What was the last thing you ate?"
+    },
+    {
+        "text": "Whats your favourite farmyard animal?"
+    },
+    {
+        "text": "If you could choose one celebrity to be the father/mother of your child who would it be?"
+    },
+    {
+        "text": "What would you do if someone proposed to you tomorrow?"
+    },
+    {
+        "text": "What are your 3 favourite internet sites?"
+    },
+    {
+        "text": "How high can you jump?"
+    },
+    {
+        "text": "Which fictional character do you wish was real?"
+    },
+    {
+        "text": "Who was your first crush?"
+    },
+    {
+        "text": "Whats the greatest thing about being your nationality?"
+    },
+    {
+        "text": "Whats the least greatest thing about being your nationality?"
+    },
+    {
+        "text": "Do you believe in destiny, fate or free will?"
+    },
+    {
+        "text": "If you could talk to one species of animal which would it be?"
+    },
+    {
+        "text": "If you had friends round what DVD's would you have to watch?"
+    },
+    {
+        "text": "Do you like vanilla or chocolate?"
+    },
+    {
+        "text": "Are you a giver or a receiver?"
+    },
+    {
+        "text": "Do you have any enemies?"
+    },
+    {
+        "text": "Are you scared of needles?"
+    },
+    {
+        "text": "How many piercings do you have? if any"
+    },
+    {
+        "text": "Have you ever got majorly lost trying to get somewhere?"
+    },
+    {
+        "text": "How fast can you say the alphabet?"
+    },
+    {
+        "text": "Do you say \"Zee\" or \"Zed\" to describe the letter Z?"
+    },
+    {
+        "text": "What was the last thing to make you feel happy?"
+    },
+    {
+        "text": "What was the last thing to make you feel angry?"
+    },
+    {
+        "text": "You are walking to work. There is a dog drowning in the canal on the side of the street. Your boss told you if you are late one more time you're fired. Do you save the dog?"
+    },
+    {
+        "text": "Are you the kind of friend you'd want to have as a friend yourself?"
+    },
+    {
+        "text": "Do you have any questions or queries about things you're just to scared or embarassed to ask anyone about?"
+    },
+    {
+        "text": "If you were a wrestler what would your stage name be? and what would your special move be called?"
+    },
+    {
+        "text": "Whats the most interesting thing you can see out of your nearest window?"
+    },
+    {
+        "text": "Do you think Barbie is a negative role model for young girls?"
+    },
+    {
+        "text": "Have you ever needed an eye test?"
+    },
+    {
+        "text": "Do you find yourself attractive?"
+    },
+    {
+        "text": "Can you roll your R's?"
+    },
+    {
+        "text": "What social class do you consider yourself or your family background to be in?"
+    },
+    {
+        "text": "Do you know any magic tricks?"
+    },
+    {
+        "text": "Whats the largest amount of money you've ever won?"
+    },
+    {
+        "text": "Whats the largest amount of money you've spent in one spree?"
+    },
+    {
+        "text": "Whats the largest amount of money you've had to borrow off of a friend or family member"
+    },
+    {
+        "text": "Have you ever been on a cable car?"
+    },
+    {
+        "text": "Do you prefer Honey or Jam?"
+    },
+    {
+        "text": "Do you prefer the French or Germans?"
+    },
+    {
+        "text": "How fast can you get changed?"
+    },
+    {
+        "text": "How fast do you type?"
+    },
+    {
+        "text": "How fast can you run?"
+    },
+    {
+        "text": "Which is better, Mario or Sonic?"
+    },
+    {
+        "text": "Whats your favourite biscuit to dunk?"
+    },
+    {
+        "text": "Which would you rather have if you had to, a broken leg or a broken arm?"
+    },
+    {
+        "text": "Do you read a daily newspaper?"
+    },
+    {
+        "text": "Do you watch the news on TV?"
+    },
+    {
+        "text": "Have you ever had anything published?"
+    },
+    {
+        "text": "Do you believe in love at first sight?"
+    },
+    {
+        "text": "How many remote controls do you have in your house?"
+    },
+    {
+        "text": "Have you ever been in a hot tub or sauna?"
+    },
+    {
+        "text": "Have you ever had chicken pox?"
+    },
+    {
+        "text": "Do you own a lava lamp?"
+    },
+    {
+        "text": "Are you glad these are almost over?"
+    },
+    {
+        "text": "On a scale of 1-10 how random would you say these are?"
+    },
+    {
+        "text": "What is your one major weekness?"
+    },
+    {
+        "text": "Whats been the best descision you've made in your life so far?"
+    },
+    {
+        "text": "Whats been the worst descision you've made in your life so far?"
+    },
+    {
+        "text": "What words do you always struggle to spell correctly?"
+    },
+    {
+        "text": "On a scale of 1-10 how happy would you say you are?"
+    },
+    {
+        "text": "On a scale of 1-10 how smart would you say you are?"
+    },
+    {
+        "text": "On a scale of 1-10 how funny would you say you are?"
+    },
+    {
+        "text": "On a scale of 1-10 how devious would you say you are?"
+    },
+    {
+        "text": "On a scale of 1-10 how awesome would you say you are?"
+    },
+    {
+        "text": "On a scale of 1-10 how devilsh would you say you are?"
+    },
+    {
+        "text": "On a scale of 1-10 how nice/caring would you say you are?"
+    },
+    {
+        "text": "On a scale of 1-10 how bitchy would you say you are?"
+    },
+    {
+        "text": "On a scale of 1-10 how polite would you say you are?"
+    },
+    {
+        "text": "On a scale of 1-10 how attractive would you say you are?"
+    },
+    {
+        "text": "If you could be any famous person who would you be and why?"
+    },
+    {
+        "text": "Whats your favourite animal?"
+    },
+    {
+        "text": "Whats your favourite item of clothing?"
+    },
+    {
+        "text": "Whats your favourite expleitive?"
+    },
+    {
+        "text": "Whats your favourite boys name?"
+    },
+    {
+        "text": "Whats your favourite girls name?"
+    },
+    {
+        "text": "Whats your favourite book?"
+    },
+    {
+        "text": "Whats your favourite bodypart?"
+    },
+    {
+        "text": "Whats your favourite musical instrument?"
+    },
+    {
+        "text": "Whats your favourite song?"
+    },
+    {
+        "text": "Whats your favourite actress?"
+    },
+    {
+        "text": "Whats your favourite actor?"
+    },
+    {
+        "text": "Whats your favourite film?"
+    },
+    {
+        "text": "Whats your favourite tv show?"
+    },
+    {
+        "text": "Whats your favourite game?"
+    },
+    {
+        "text": "Whats your favourite non alcoholic drink?"
+    },
+    {
+        "text": "Whats your favourite food?"
+    },
+    {
+        "text": "Whats your favourite band?"
+    },
+    {
+        "text": "Whats your favourite author?"
+    },
+    {
+        "text": "Whats your favourite sport?"
+    },
+    {
+        "text": "Whats your favourite job?"
+    },
+    {
+        "text": "Whats your favourite mythical creature?"
+    },
+    {
+        "text": "Whats your favourite alcoholic drink?"
+    },
+    {
+        "text": "Whats your favourite cartoon character?"
+    },
+    {
+        "text": "Whats your favourite word?"
+    },
+    {
+        "text": "Whats your favourite city?"
+    },
+    {
+        "text": "Whats your favourite country?"
+    },
+    {
+        "text": "Do you get seasick?"
+    },
+    {
+        "text": "If you discovered a new species of dinosaur what would you call it?"
+    },
+    {
+        "text": "Do you own a paddling pool?"
+    },
+    {
+        "text": "What do you consider is the most important piece of furniture in a house?"
+    },
+    {
+        "text": "What do you consider is the most important appliance in a house?"
+    },
+    {
+        "text": "If you could have any celebritys hair whos would it be?"
+    },
+    {
+        "text": "Which Celebrity do you find the most annoying?"
+    },
+    {
+        "text": "What potential talents do you think you might have if you worked at them?"
+    },
+    {
+        "text": "Who was better, Flipper, Lassie or Skippy?"
+    },
+    {
+        "text": "If you could be trained up in any profession of your choice by top professionals what profession would you choose?"
+    },
+    {
+        "text": "If someone elses child was being an annoying little runt would you go tell them off or do something about it?"
+    },
+    {
+        "text": "Do you believe in kharma?"
+    },
+    {
+        "text": "Do you believe in revenge?"
+    },
+    {
+        "text": "Do you believe in fairies?"
+    },
+    {
+        "text": "Do you believe in a god?"
+    },
+    {
+        "text": "Do you believe there used to be dragons?"
+    },
+    {
+        "text": "Who would you want to be with on a desert island?"
+    },
+    {
+        "text": "What's the worst show on television?"
+    },
+    {
+        "text": "Who's your favourite god from ancient history?"
+    },
+    {
+        "text": "What one device would you want to see added to a mobile phone?"
+    },
+    {
+        "text": "Where do you see yourself in 1 months time?"
+    },
+    {
+        "text": "Where do you see yourself in 1 years time?"
+    },
+    {
+        "text": "Where do you see yourself in 10 years time?"
+    },
+    {
+        "text": "What was the best thing about your old school?"
+    },
+    {
+        "text": "What was the worst thing about your old school?"
+    },
+    {
+        "text": "If you could change your name to anything what would your new name be?"
+    },
+    {
+        "text": "Do you watch too much tv?"
+    },
+    {
+        "text": "Have you ever planted a tree?"
+    },
+    {
+        "text": "Whats the heaviest thing you can lift?"
+    },
+    {
+        "text": "What was the last present you recieved?"
+    },
+    {
+        "text": "Are your ears lobed or attached?"
+    },
+    {
+        "text": "How often do you wash your ears?"
+    },
+    {
+        "text": "Could you go out with someone who had a child from a previous relationship?"
+    },
+    {
+        "text": "What was your first alcoholic drink?"
+    },
+    {
+        "text": "What was your first job?"
+    },
+    {
+        "text": "What was your first mobile phone?"
+    },
+    {
+        "text": "What is your first proper memory?"
+    },
+    {
+        "text": "Who was your first teacher?"
+    },
+    {
+        "text": "Where did you go on your first ride on an airplane?"
+    },
+    {
+        "text": "Who was your first best friend?"
+    },
+    {
+        "text": "What was your first detention for?"
+    },
+    {
+        "text": "Whats your strongest voluntary muscle?"
+    },
+    {
+        "text": "Who was your first kiss?"
+    },
+    {
+        "text": "What was the first film you remember seeing at the cinema?"
+    },
+    {
+        "text": "What thing that you've made are you most proud of?"
+    },
+    {
+        "text": "Could you ever be someones bodygaurd?"
+    },
+    {
+        "text": "Michelangelo's David... Masterpiece or filth?"
+    },
+    {
+        "text": "Do you like other people buying you clothes?"
+    },
+    {
+        "text": "Have you ever brought a present for someone that they hated/disliked?"
+    },
+    {
+        "text": "What nicknames do you have/have had?"
+    },
+    {
+        "text": "Did you have any pretend or imaginary friends?"
+    },
+    {
+        "text": "Have you ever seen a therapist/shrink?"
+    },
+    {
+        "text": "Have you ever carved a pumpkin?"
+    },
+    {
+        "text": "Would you say you are a good or bad influence to others?"
+    },
+    {
+        "text": "Do you prefer giving or recieving gifts/help etc"
+    },
+    {
+        "text": "If you were a member of the spice girls, what would your spice handle be?"
+    },
+    {
+        "text": "If you were to become a famous singer, what would your debut album be called?"
+    },
+    {
+        "text": "If you could join any music group which would you want to join?"
+    },
+    {
+        "text": "What do your parents do?"
+    },
+    {
+        "text": "If you were a giant mega monster what city would you rampage?"
+    },
+    {
+        "text": "Did you ever have a treehouse as a kid?"
+    },
+    {
+        "text": "Is your dad an embarassing dancer?"
+    },
+    {
+        "text": "Do you plan to vote in the next election?"
+    },
+    {
+        "text": "If you could replace one bodypart with a super bionic replacement what bodypart and what features would the new bionic replacement have?"
+    },
+    {
+        "text": "What if any unusual objects have you swallowed?"
+    },
+    {
+        "text": "When you buy something new do you get a desire to use/play with it even when they dont have any physical application yet?"
+    },
+    {
+        "text": "Did you understand the Matrix Trilogy?"
+    },
+    {
+        "text": "Would you rather be the fella in a movie who gets the girl or the baddie with all the good lines?"
+    },
+    {
+        "text": "If you were stinking rich, would you only go to places other rich people went?"
+    },
+    {
+        "text": "Would you rather have a mans top half and a womens bottom half or visa versa?"
+    },
+    {
+        "text": "Rebound relationships, good or bad?"
+    },
+    {
+        "text": "Have you ever owned a slinky?"
+    },
+    {
+        "text": "Teenage parents, good bad or indifferent?"
+    },
+    {
+        "text": "Whats the most expensive thing you've ever broken?"
+    },
+    {
+        "text": "Pirate downloads, good or bad?"
+    },
+    {
+        "text": "Democracy, good or bad?"
+    },
+    {
+        "text": "Communism, good or bad?"
+    },
+    {
+        "text": "Have you ever been electrocuted?"
+    },
+    {
+        "text": "Have you ever been attacked with a creamy bakery product?"
+    },
+    {
+        "text": "Have you ever shawn a sheep?"
+    },
+    {
+        "text": "Have you ever accidentally set fire to yourself?"
+    },
+    {
+        "text": "Have you ever eaten a whole tube of pringles by yourself?"
+    },
+    {
+        "text": "Have you ever been hit on by someone of the same gender?"
+    },
+    {
+        "text": "The war in Iraq, good or bad?"
+    },
+    {
+        "text": "The war in Afganistan, good or bad?"
+    },
+    {
+        "text": "Have you ever appeared on youtube?"
+    },
+    {
+        "text": "Have you ever performed in front of a large audience?"
+    },
+    {
+        "text": "Have you ever eaten anything prepared by a celebrity chef?"
+    },
+    {
+        "text": "Have you ever been on radio?"
+    },
+    {
+        "text": "Did your school make a teatowel that everyone submitted to?"
+    },
+    {
+        "text": "What colour/style was your school tie?"
+    },
+    {
+        "text": "Do you have to wear glasses?"
+    },
+    {
+        "text": "Do you bite your nails?"
+    },
+    {
+        "text": "Do you prefer male or female singers voices?"
+    },
+    {
+        "text": "Would you rather be the worlds greatest football player or lover?"
+    },
+    {
+        "text": "Do you get hayfever?"
+    },
+    {
+        "text": "Do you have a list of things to do before your 'x' years old?"
+    },
+    {
+        "text": "Do you like your age?"
+    },
+    {
+        "text": "Whats your favourite physical thing you like about yourself?"
+    },
+    {
+        "text": "Whats your least favourite physical thing you like about yourself?"
+    },
+    {
+        "text": "Are you proud, comfortable or ashamed of your body?"
+    },
+    {
+        "text": "Whats your favourite personality trait you like about yourself?"
+    },
+    {
+        "text": "Whats your least favourite personality trait you like about yourself?"
+    },
+    {
+        "text": "Do you know html?"
+    },
+    {
+        "text": "Have you ever flown first class?"
+    },
+    {
+        "text": "How many languages do you speak?"
+    },
+    {
+        "text": "What are better, violins or pianos?"
+    },
+    {
+        "text": "What compulsions do you have?"
+    },
+    {
+        "text": "What makes you angry?"
+    },
+    {
+        "text": "If you could see any band, which would you like to see?"
+    },
+    {
+        "text": "Who would you say are more attractive, English or Europeans?"
+    },
+    {
+        "text": "What would you say is your favourite album of all time?"
+    },
+    {
+        "text": "Do you dislike hairy people?"
+    },
+    {
+        "text": "Are you much of an adventurer?"
+    },
+    {
+        "text": "Do you like your own name?"
+    },
+    {
+        "text": "Would you ever sign a Prenuptial agreement?"
+    },
+    {
+        "text": "How long has your longest ever phone call been?"
+    },
+    {
+        "text": "Have you ever stolen anything?"
+    },
+    {
+        "text": "Could you ever have an affair with a married person?"
+    },
+    {
+        "text": "Could you ever split up a couple for one reason or another?"
+    },
+    {
+        "text": "What is your family christmases like?"
+    },
+    {
+        "text": "Do you prefer sporty or academic members of the opposite sex?"
+    },
+    {
+        "text": "How much would it cost to buy your love?"
+    },
+    {
+        "text": "Who was your least favourite teacher at school and why?"
+    },
+    {
+        "text": "Whats your current Mobile phone model and do you like it?"
+    },
+    {
+        "text": "Have you already thought about your babies names?"
+    },
+    {
+        "text": "Have you ever been fishing?"
+    },
+    {
+        "text": "Have you ever had your national flag painted on your face?"
+    },
+    {
+        "text": "Do you have any strange body things?"
+    },
+    {
+        "text": "What was the last social faux pas you made?"
+    },
+    {
+        "text": "What makes you nostalgic?"
+    },
+    {
+        "text": "Whats the scariest thing you've ever done?"
+    },
+    {
+        "text": "What fairy tale character would you most associate with?"
+    },
+    {
+        "text": "How much do you tend to swear in public?"
+    },
+    {
+        "text": "What are your strengths?"
+    },
+    {
+        "text": "What are your weaknesses?"
+    },
+    {
+        "text": "What brand are your trainers?"
+    },
+    {
+        "text": "If you ruled your own country, who would you get to writer your national anthem?"
+    },
+    {
+        "text": "Who is the most intelligent person you know?"
+    },
+    {
+        "text": "Whats the craziest thing you've ever done for someone?"
+    },
+    {
+        "text": "How did you get your name?"
+    },
+    {
+        "text": "Whats the best piece of advice anyone has ever given you?"
+    },
+    {
+        "text": "If you had to describe yourself as a flavour, what would it be?"
+    },
+    {
+        "text": "If you had to describe yourself as a car, what would it be?"
+    },
+    {
+        "text": "If you had to describe yourself as an animal, what would it be?"
+    },
+    {
+        "text": "Do you think laughing at someone elses misfortune is wrong?"
+    },
+    {
+        "text": "If a loved one was to serenade you, what song would you most like them to sing?"
+    },
+    {
+        "text": "Would you ever let your parents pick out a partner for you?"
+    },
+    {
+        "text": "Where are you from?"
+    },
+    {
+        "text": "Where do you live?"
+    },
+    {
+        "text": "How many siblings do you have?"
+    },
+    {
+        "text": "Are you in a relationship?"
+    },
+    {
+        "text": "What do you do?"
+    },
+    {
+        "text": "Do you have any nicknames?"
+    },
+    {
+        "text": "Where do you study?"
+    },
+    {
+        "text": "How old are you?"
+    },
+    {
+        "text": "What\u2019s your favourite color?"
+    },
+    {
+        "text": "What\u2019s your favourite food?"
+    },
+    {
+        "text": "What\u2019s your favourite movie?"
+    },
+    {
+        "text": "What\u2019s your favourite TV show?"
+    },
+    {
+        "text": "What\u2019s your favourite game?"
+    },
+    {
+        "text": "How tall are you?"
+    },
+    {
+        "text": "What\u2019s your weight?"
+    },
+    {
+        "text": "Who was your first crush?"
+    },
+    {
+        "text": "Who was your first partner?"
+    },
+    {
+        "text": "What is your birth of date?"
+    },
+    {
+        "text": "What are your future plans?"
+    },
+    {
+        "text": "Do you like or hate your job?"
+    },
+    {
+        "text": "What\u2019s your hobby?"
+    },
+    {
+        "text": "What are your talents?"
+    },
+    {
+        "text": "If you were to wish for superpowers, what would they be?"
+    },
+    {
+        "text": "What would your superhero name be?"
+    },
+    {
+        "text": "What team would you join after becoming an superhero? (Avengers, Justice League etc)"
+    },
+    {
+        "text": "Would you reveal your identity to the world?"
+    },
+    {
+        "text": "If you had superpowers, would you misuse them for your own purposes?"
+    },
+    {
+        "text": "How would your superhero costume look like?"
+    },
+    {
+        "text": "Where would your secret superhero hideout be?"
+    },
+    {
+        "text": "How would your hideout look like?"
+    },
+    {
+        "text": "If you were to choose any superhero to become your sidekick, who would it be?"
+    },
+    {
+        "text": "If you were to choose any superhero as your enemy, who would it be?"
+    },
+    {
+        "text": "If you were to assemble a new superhero team, which superheroes would you include in them?"
+    },
+    {
+        "text": "What would your superhero car look like?"
+    },
+    {
+        "text": "Would you rather live a normal life or a weird life?"
+    },
+    {
+        "text": "Would you sacrifice yourself to save other people?"
+    },
+    {
+        "text": "If you were to found out your loved one is a evil mastermind, would you stop them or join their side?"
+    },
+    {
+        "text": "Are you a psychic in any way?"
+    },
+    {
+        "text": "Most embarrassing thing to happen to you?"
+    },
+    {
+        "text": "Funniest thing to happen to you?"
+    },
+    {
+        "text": "Scariest thing to happen to you?"
+    },
+    {
+        "text": "Best thing to happen to you?"
+    },
+    {
+        "text": "What your shoe size is?"
+    },
+    {
+        "text": "What is your favourite outfit?"
+    },
+    {
+        "text": "Do you prefer to wear eastern or western?"
+    },
+    {
+        "text": "What are your favourite type of shoes?"
+    },
+    {
+        "text": "Are you a good actor?"
+    },
+    {
+        "text": "Are you a good liar?"
+    },
+    {
+        "text": "Do you prefer to live alone or with someone?"
+    },
+    {
+        "text": "Your favourite job and why?"
+    },
+    {
+        "text": "What\u2019s the scariest thing you\u2019ve done?"
+    },
+    {
+        "text": "Do you have any family secrets?"
+    },
+    {
+        "text": "Famous ancestors?"
+    },
+    {
+        "text": "What\u2019s your hairstyle?"
+    },
+    {
+        "text": "What hairstyle do you like on the opposite gender?"
+    },
+    {
+        "text": "How do you look without makeup?"
+    },
+    {
+        "text": "What accessory on the opposite gender is a big turnoff?"
+    },
+    {
+        "text": "Do you know how to swim?"
+    },
+    {
+        "text": "Name of the highest building in your area?"
+    },
+    {
+        "text": "Are you afraid of heights?"
+    },
+    {
+        "text": "Have you ever gone parachuting or para-diving?"
+    },
+    {
+        "text": "If you were given chance to paradive or go parachuting, would you?"
+    },
+    {
+        "text": "Are you scared of the water?"
+    },
+    {
+        "text": "Have you ever been on a speedboat?"
+    },
+    {
+        "text": "Do you like traveling?"
+    },
+    {
+        "text": "Do you have a habit of getting sick during travelling?"
+    },
+    {
+        "text": "Best hotel you\u2019ve lived at?"
+    },
+    {
+        "text": "Worst hotel you\u2019ve lived at?"
+    },
+    {
+        "text": "Worst country you\u2019ve been to?"
+    },
+    {
+        "text": "Best country you\u2019ve been to?"
+    },
+    {
+        "text": "How is your country\u2019s community?"
+    },
+    {
+        "text": "Do you see any tourists in your country?"
+    },
+    {
+        "text": "Post a picture of your country\u2019s flag"
+    },
+    {
+        "text": "If you were to design your country\u2019s flag, how would it look like?"
+    },
+    {
+        "text": "Do you go outside alot or not? (excluding work, school etc)"
+    },
+    {
+        "text": "Where do you prefer to go when going outside?"
+    },
+    {
+        "text": "Who makes plans most the times? you or your friends?"
+    },
+    {
+        "text": "What sport you don\u2019t know how to play, but want to learn?"
+    },
+    {
+        "text": "Where do you see yourself in 1 month?"
+    },
+    {
+        "text": "Where do you see yourself in 1 year ?"
+    },
+    {
+        "text": "Where do you see yourself in 5 years?"
+    },
+    {
+        "text": "Where do you see yourself in 10 years?"
+    },
+    {
+        "text": "Where do you see yourself in 20 years?"
+    },
+    {
+        "text": "Where do you see yourself in 30 years?"
+    },
+    {
+        "text": "Where do you see yourself in 50 years?"
+    },
+    {
+        "text": "If you could switch families, would you?"
+    },
+    {
+        "text": "Are you close to your family or not?"
+    },
+    {
+        "text": "If you were given chance to join politics, would you?"
+    },
+    {
+        "text": "If you were given chance to change your country\u2019s national anthem, what would it be?"
+    },
+    {
+        "text": "What foreign country do you dislike the most?"
+    },
+    {
+        "text": "What country do you like the most?"
+    },
+    {
+        "text": "If you were to run away from your family, where would you run off too?"
+    },
+    {
+        "text": "If you were in trouble, who would you go to first?"
+    },
+    {
+        "text": "Who\u2019s your crime partner?"
+    },
+    {
+        "text": "Do you know how to keep secrets?"
+    },
+    {
+        "text": "What do you prefer to waste most of your money on?"
+    },
+    {
+        "text": "If you were to be deserted, what 3 items would you take with yourself?"
+    },
+    {
+        "text": "Would you be ready to sacrifice yourself for your family or not?"
+    },
+    {
+        "text": "If a family member, friend or a hot female were about to fall of a cliff and you could only save one. Who would it be?"
+    },
+    {
+        "text": "If you could eliminate one social network from the site, which one would it be and why?"
+    },
+    {
+        "text": "Your favourite social networking site?"
+    },
+    {
+        "text": "Your least favourite social networking site?"
+    },
+    {
+        "text": "If you were to make a social networking site of your own, what would it be about?"
+    },
+    {
+        "text": "If you could make changes to any social network, what would it be?"
+    },
+    {
+        "text": "Your most liked picture on Facebook?"
+    },
+    {
+        "text": "Your least liked picture on Facebook?"
+    },
+    {
+        "text": "Your most sexiest picture?"
+    },
+    {
+        "text": "Your most funniest photo?"
+    },
+    {
+        "text": "Your most embarrasing photo?"
+    },
+    {
+        "text": "If you could take a picture with any celebrity, who would it be?"
+    },
+    {
+        "text": "Would you cheat on your partner with your favourite celebrity if gotten the chance?"
+    },
+    {
+        "text": "What annoys you?"
+    },
+    {
+        "text": "What embarrases you?"
+    },
+    {
+        "text": "How much frequently do you get ill?"
+    },
+    {
+        "text": "What\u2019s the longest you\u2019ve been ill?"
+    },
+    {
+        "text": "What was the cause of you being ill?"
+    },
+    {
+        "text": "Do you fake illness sometimes to avoid going to school or work?"
+    },
+    {
+        "text": "What\u2019s the shortest time you\u2019ve been ill?"
+    },
+    {
+        "text": "Worst disease you\u2019ve gotten?"
+    },
+    {
+        "text": "Do you have a family doctor or visit random doctors?"
+    },
+    {
+        "text": "Are there any diseases that run in your family? If yes, which?"
+    },
+    {
+        "text": "Longest you\u2019ve been on bedrest?"
+    },
+    {
+        "text": "What do you usually do when you\u2019re ill?"
+    },
+    {
+        "text": "Do you tend to google your problems?"
+    },
+    {
+        "text": "Google or Doctor?"
+    },
+    {
+        "text": "Ever had a bad accident? If yes, how?"
+    },
+    {
+        "text": "How many times you\u2019ve had accidents in your life?"
+    },
+    {
+        "text": "Have you ever seen someone die right infront of your eyes?"
+    },
+    {
+        "text": "If yes, how did they die?"
+    },
+    {
+        "text": "Have you ever harmed your self?"
+    },
+    {
+        "text": "Have you ever tried to attempt sucide? If yes, why?"
+    },
+    {
+        "text": "Have you ever faced depression? If yes, why?"
+    },
+    {
+        "text": "Do you prefer therapists or friends?"
+    },
+    {
+        "text": "Something that most people don\u2019t know about you?"
+    },
+    {
+        "text": "Do likes on social networks matter to you or not?"
+    },
+    {
+        "text": "If you were to become instantly famous on any social network, which one would it be?"
+    },
+    {
+        "text": "What social network would you wanna avoid?"
+    },
+    {
+        "text": "If you could talk to any celebrity on social network, who would it be?"
+    },
+    {
+        "text": "Your opinions on sexting?"
+    },
+    {
+        "text": "If you were to catch your partner cheating, what would be your reaction?"
+    },
+    {
+        "text": "Do you prefer friends over family or family over friends?"
+    },
+    {
+        "text": "What do you think is the greatest invention and why?"
+    },
+    {
+        "text": "Are you more of a friendly or a rude person?"
+    },
+    {
+        "text": "Do you prefer countryside or the city?"
+    },
+    {
+        "text": "If you were a farmer, what would you grow?"
+    },
+    {
+        "text": "If you had a chance to move to the countryside away from city, would you? If so, why?"
+    },
+    {
+        "text": "Do you think countryside or city is better? Why?"
+    },
+    {
+        "text": "How do you usually start conversations?"
+    },
+    {
+        "text": "When it comes to socializing, are you the one to start convos first or them?"
+    },
+    {
+        "text": "Are you awkward?"
+    },
+    {
+        "text": "How would you approach your crush?"
+    },
+    {
+        "text": "Why is your crush your crush?"
+    },
+    {
+        "text": "Ways to your heart?"
+    },
+    {
+        "text": "Do you think any kind of afterlife exists?"
+    },
+    {
+        "text": "What do you think happens after death?"
+    },
+    {
+        "text": "What\u2019s the strangest dream you\u2019ve had?"
+    },
+    {
+        "text": "What\u2019s the scariest dream you\u2019ve had?"
+    },
+    {
+        "text": "What do you usually dream about?"
+    },
+    {
+        "text": "Do you discuss your dreams with other people?"
+    },
+    {
+        "text": "Have you ever had a dream that came true later on?"
+    },
+    {
+        "text": "What do you think about dreams?"
+    },
+    {
+        "text": "How much do you cry?"
+    },
+    {
+        "text": "Are you sensitive?"
+    },
+    {
+        "text": "How many emails do you usually get everyday?"
+    },
+    {
+        "text": "How many texts do you get usually get everyday?"
+    },
+    {
+        "text": "How many calls do you usually get everyday?"
+    },
+    {
+        "text": "Do you prefer to speak on call or texting?"
+    },
+    {
+        "text": "What\u2019s your favourite instant messaging app?"
+    },
+    {
+        "text": "Do you backup your texts or delete them?"
+    },
+    {
+        "text": "Do you usually delete photos in your phone or keep them? If so, how do you keep them safe?"
+    },
+    {
+        "text": "our secrets with?"
+    },
+    {
+        "text": "Are you able to keep other peoples secrets?"
+    },
+    {
+        "text": "If you were asked to tell all your bestfriend\u2019s secrets at gunpoint, would you?"
+    },
+    {
+        "text": "What\u2019s the most money you\u2019ve ever held?"
+    },
+    {
+        "text": "What\u2019s the most money you\u2019ve spent in a single day?"
+    },
+    {
+        "text": "What\u2019s the most expensive thing you\u2019ve bought in your whole life?"
+    },
+    {
+        "text": "What\u2019s the most cheapest thing you\u2019ve bought?"
+    },
+    {
+        "text": "Where do you usually buy your clothes from?"
+    },
+    {
+        "text": "What\u2019s the most expensive clothes you bought?"
+    },
+    {
+        "text": "What\u2019s the most cheapest clothes you\u2019ve bought?"
+    },
+    {
+        "text": "Best brand? Worst brand?"
+    },
+    {
+        "text": "Your top 5 favourite brands?"
+    },
+    {
+        "text": "If you could invest in any brand, which brand would you invest on?"
+    },
+    {
+        "text": "Are you obsessed about undergarments?"
+    },
+    {
+        "text": "Describe your best undergarment"
+    },
+    {
+        "text": "Where do you usually buy your undergarments from?"
+    },
+    {
+        "text": "Why is it that women are comfortable with men looking at them in bikini, but not in undergarments?"
+    },
+    {
+        "text": "Do you prefer cheap or expensive clothes?"
+    },
+    {
+        "text": "Jeans or trousers?"
+    },
+    {
+        "text": "Do you prefer modest or revealing clothes?"
+    },
+    {
+        "text": "Eastern or western clothes?"
+    },
+    {
+        "text": "Post a picture of your makeup"
+    },
+    {
+        "text": "Name of the makeup\u2019s brand you usually buy?"
+    },
+    {
+        "text": "What\u2019s the most expensive make up you\u2019ve bought?"
+    },
+    {
+        "text": "What\u2019s the cheapest make up you\u2019ve bought?"
+    },
+    {
+        "text": "Post a picture of you in makeup"
+    },
+    {
+        "text": "Post a picture of you without makeup"
+    },
+    {
+        "text": "Do you wear wakeup to school or not?"
+    },
+    {
+        "text": "Post a picture of you in your funniest shirt"
+    },
+    {
+        "text": "Post a picture of you in your best shirt"
+    },
+    {
+        "text": "Post a picture of you in your worst shirt"
+    },
+    {
+        "text": "If you could shop from one brand for free forever, which one would it be?"
+    },
+    {
+        "text": "If you were given a wish to bankrupt one company, which company would you bankrupt?"
+    },
+    {
+        "text": "Where do you usually buy your accessories from?"
+    },
+    {
+        "text": "What kind of accessories do you wear usually?"
+    },
+    {
+        "text": "Post a picture of your ring"
+    },
+    {
+        "text": "Post a picture of your necklace"
+    },
+    {
+        "text": "Post a picture of your shoes"
+    },
+    {
+        "text": "Post a picture of your earings"
+    },
+    {
+        "text": "What\u2019s the most money you\u2019ve given away?"
+    },
+    {
+        "text": "Do you spend money on your friends? If so, how much usually?"
+    },
+    {
+        "text": "Do your friends spend money on you?"
+    },
+    {
+        "text": "What\u2019s the most expensive gift you\u2019ve bought for someone?"
+    },
+    {
+        "text": "What\u2019s the most expensive gift you\u2019ve recieved?"
+    },
+    {
+        "text": "What\u2019s the cheapest gift you\u2019ve received?"
+    },
+    {
+        "text": "Has your gift ever been rejected?"
+    },
+    {
+        "text": "What game do you prefer to play 21 questions or truth/dare?"
+    },
+    {
+        "text": "What questions do you usually ask a person to get to know them?"
+    },
+    {
+        "text": "Would you rather forgive or take revenge?"
+    },
+    {
+        "text": "Are you good at forgiving people?"
+    },
+    {
+        "text": "Have you ever done something bad to anyone that you regret?"
+    },
+    {
+        "text": "Has you ever experienced Karma? If so, how?"
+    },
+    {
+        "text": "Do you celebrate birthdays?"
+    },
+    {
+        "text": "How did you celebrate your previous birthday?"
+    },
+    {
+        "text": "Plans for your next birthday?"
+    },
+    {
+        "text": "Have you ever been surprised for your birthday?"
+    },
+    {
+        "text": "What was the best gift you recieved on your birthday?"
+    },
+    {
+        "text": "What was the worse gift you recieved on your birthday?"
+    },
+    {
+        "text": "How do you usually celebrate your birthdays?"
+    },
+    {
+        "text": "What do you usually gift others on their birthday?"
+    },
+    {
+        "text": "If you were to own a shop, what would you sell?"
+    },
+    {
+        "text": "Have you ever crushed on someone else during a relationship?"
+    },
+    {
+        "text": "How would you react if you and your partner were to breakup?"
+    },
+    {
+        "text": "How long does it take you to get ready?"
+    },
+    {
+        "text": "What type of holidays do you prefer?"
+    },
+    {
+        "text": "What was your greatest day and why?"
+    },
+    {
+        "text": "Do you prefer eastern or western food?"
+    },
+    {
+        "text": "What is your favourite eastern food?"
+    },
+    {
+        "text": "What is your favourite western food?"
+    },
+    {
+        "text": "Favourite fast food?"
+    },
+    {
+        "text": "How much do you eat fast food?"
+    },
+    {
+        "text": "Do you like salad or not?"
+    },
+    {
+        "text": "How healthy is your diet?"
+    },
+    {
+        "text": "Do you prefer to eat at home or dine outside?"
+    },
+    {
+        "text": "How much money do you usually spend on food everyday?"
+    },
+    {
+        "text": "Are you obsessed about food?"
+    },
+    {
+        "text": "What kind of food do you hate?"
+    },
+    {
+        "text": "What do you like for deserts?"
+    },
+    {
+        "text": "Favourite shake?"
+    },
+    {
+        "text": "Any family secret recipes?"
+    },
+    {
+        "text": "What do you think is Kentucky\u2019s secret?"
+    },
+    {
+        "text": "Do you know how to cook? If so, what food can you cook?"
+    },
+    {
+        "text": "The most delicious food you\u2019ve ever cooked?"
+    },
+    {
+        "text": "The worst food you\u2019ve ever cooked?"
+    },
+    {
+        "text": "Do you prefer to eat your own cooked food or food cooked by others?"
+    },
+    {
+        "text": "Have you ever spotted an insect in your food?"
+    },
+    {
+        "text": "The worst food you\u2019ve tasted?"
+    },
+    {
+        "text": "The best food you\u2019ve tasted in life?"
+    },
+    {
+        "text": "What\u2019s your favourite restaurant\u2019s name?"
+    },
+    {
+        "text": "Favourite cheapest dish there?"
+    },
+    {
+        "text": "Favourite expensive dish there?"
+    },
+    {
+        "text": "Which restaurant do you prefer to date at?"
+    },
+    {
+        "text": "Pizza hut or Dominos?"
+    },
+    {
+        "text": "Prefer take away or dining in?"
+    },
+    {
+        "text": "McDonalds or Burger King?"
+    },
+    {
+        "text": "KFC or Rooster Chicken?"
+    },
+    {
+        "text": "Favourite local restaurant?"
+    },
+    {
+        "text": "Favourite franchise to dine at?"
+    },
+    {
+        "text": "Cut chicken or whole chicken?"
+    },
+    {
+        "text": "Pizza or lasagna?"
+    },
+    {
+        "text": "Pepsi or Coke?"
+    },
+    {
+        "text": "Biryani or Karahi?"
+    },
+    {
+        "text": "Korma or Nihari?"
+    },
+    {
+        "text": "What beverage do you prefer to drink with your food?"
+    },
+    {
+        "text": "In your city, how much can you get with 1$ only?"
+    },
+    {
+        "text": "What meat do you eat?"
+    },
+    {
+        "text": "Meats you don\u2019t eat?"
+    },
+    {
+        "text": "What kind of food do you try to avoid eating?"
+    },
+    {
+        "text": "What food are you allergic to?"
+    },
+    {
+        "text": "What deserts do you know how to make?"
+    },
+    {
+        "text": "What do you don\u2019t know how to cook, but want to learn?"
+    },
+    {
+        "text": "Where did you learn how to cook from?"
+    },
+    {
+        "text": "Where do you usually get your recipes from?"
+    },
+    {
+        "text": "Do you showoff the food you make by posting pictures of them on social networks?"
+    },
+    {
+        "text": "What did you eat last time?"
+    },
+    {
+        "text": "Post a picture of what you\u2019re about to eat right now?"
+    },
+    {
+        "text": "Post a picture of your most delicious food?"
+    },
+    {
+        "text": "Favourite biscuits?"
+    },
+    {
+        "text": "Tea with or without biscuits?"
+    },
+    {
+        "text": "Biscuits or cookies?"
+    },
+    {
+        "text": "Milk with or without cookies?"
+    },
+    {
+        "text": "Favourite sweets?"
+    },
+    {
+        "text": "Favourite cake?"
+    },
+    {
+        "text": "What cake do you usually celebrate birthday with?"
+    },
+    {
+        "text": "If you were given an opportunity to join MasterChef, would you?"
+    },
+    {
+        "text": "If you were to join MasterChef, would you win or lose?"
+    },
+    {
+        "text": "Who would you like your judge to be on MasterChef?"
+    },
+    {
+        "text": "If you could become a chef at any restaurant, which one would it be?"
+    },
+    {
+        "text": "If you were to make your own restaurant, who would you hire as your restaurant\u2019s chef?"
+    },
+    {
+        "text": "Do you like spicy or non-spicy foods?"
+    },
+    {
+        "text": "What\u2019s the most spicest thing you\u2019ve ever ate in your life?"
+    },
+    {
+        "text": "What\u2019s the most saltish thing you\u2019ve ever ate in your life?"
+    },
+    {
+        "text": "What\u2019s the most disgusting thing you\u2019ve ever ate in your life?"
+    },
+    {
+        "text": "Have you ever ate a bug or any insect by mistake?"
+    },
+    {
+        "text": "What would your reaction be if you were to find an insect on your food?"
+    },
+    {
+        "text": "If you were deserted and had nothing to eat but insects, would you eat them?"
+    },
+    {
+        "text": "What is your favourite fruit?"
+    },
+    {
+        "text": "What is your least favourite fruit?"
+    },
+    {
+        "text": "What is your favourite vegetable?"
+    },
+    {
+        "text": "What is your least favourite vegetable?"
+    },
+    {
+        "text": "Do you prefer to eat food with or without ketchup?"
+    },
+    {
+        "text": "Ketchup or mayonnaise?"
+    },
+    {
+        "text": "Do you put ketchup over your fries or by their side?"
+    },
+    {
+        "text": "Your favourite oily food?"
+    },
+    {
+        "text": "Do you like barbeque? If so, what barbeque do you usually eat?"
+    },
+    {
+        "text": "Favourite crisps?"
+    },
+    {
+        "text": "Favourite crisps flavour?"
+    },
+    {
+        "text": "Pringles or Walkers/Lays?"
+    },
+    {
+        "text": "Crisps or fried chips?"
+    },
+    {
+        "text": "If you were to make your own crisps, what brand name would you give them?"
+    },
+    {
+        "text": "Do you prefer to eat silently or whilst talking?"
+    },
+    {
+        "text": "Do you prefer to eat with TV On or Off?"
+    },
+    {
+        "text": "What do you usually eat at Buffets or Weddings?"
+    },
+    {
+        "text": "Do you prefer Buffets or table service?"
+    },
+    {
+        "text": "Have you ever crashed a wedding?"
+    },
+    {
+        "text": "Have you ever been caught whilst crashing a wedding?"
+    },
+    {
+        "text": "Who would you ask to cater for your wedding?"
+    },
+    {
+        "text": "What food would you have placed on your wedding?"
+    },
+    {
+        "text": "If you were to spot someone crashing your wedding, what would be your reaction?"
+    },
+    {
+        "text": "Any family traditions when it comes to weddings?"
+    },
+    {
+        "text": "How long does it usually take you to cook food?"
+    },
+    {
+        "text": "Do you usually make good or bad food?"
+    },
+    {
+        "text": "Have you ever put salt instead of sugar?"
+    },
+    {
+        "text": "Coffee or Tea?"
+    },
+    {
+        "text": "A dish one should eat before dying?"
+    },
+    {
+        "text": "If you were able to teach everyone one dish, which one would it be?"
+    },
+    {
+        "text": "If you had the power to instantly cook any one food, what would it be?"
+    },
+    {
+        "text": "What is something that you can eat everyday without getting bored?"
+    },
+    {
+        "text": "If you had to eat one category of food for the rest of your life, what would you choose? (Meat, vegetables, fruits etc)"
+    },
+    {
+        "text": "Meat or Vegetables?"
+    },
+    {
+        "text": "Vegetables or Fruits?"
+    },
+    {
+        "text": "What do you usually order at McDonalds?"
+    },
+    {
+        "text": "What do you usually order at KFC?"
+    },
+    {
+        "text": "If you could relive any moment in the past, what would it be and why?"
+    },
+    {
+        "text": "How would you want your honeymoon to be?"
+    },
+    {
+        "text": "How would you want your first date to be?"
+    },
+    {
+        "text": "Qualities you\u2019d like in your boyfriend/girlfriend?"
+    },
+    {
+        "text": "Qualities you\u2019d like in your husband/wife?"
+    },
+    {
+        "text": "How many relationships have you had?"
+    },
+    {
+        "text": "Most amount of time you\u2019ve been in a relationship?"
+    },
+    {
+        "text": "Least amount of time you\u2019ve been in a relationship?"
+    },
+    {
+        "text": "If you were given a chance to patchup with your ex, would you?"
+    },
+    {
+        "text": "How much time does it take you to get over someone?"
+    },
+    {
+        "text": "Longest time it took you to get over someone?"
+    },
+    {
+        "text": "Shortest time it took you to get over someone?"
+    },
+    {
+        "text": "Do you still have feelings for anyone from your past? If so, who?"
+    },
+    {
+        "text": "Would you be ready to marry a stripper?"
+    },
+    {
+        "text": "Do you prefer looks or personality?"
+    },
+    {
+        "text": "Do you prefer money or looks?"
+    },
+    {
+        "text": "What\u2019s your favourite children\u2019s story?"
+    },
+    {
+        "text": "What was your favourite holiday?"
+    },
+    {
+        "text": "What or who do you think about the most whole day?"
+    },
+    {
+        "text": "If you had a warning label attached to your head, what would it say?"
+    },
+    {
+        "text": "Where would your dream holiday be?"
+    },
+    {
+        "text": "What\u2019s your favourite sport?"
+    },
+    {
+        "text": "Who\u2019s your favourite athlete?"
+    },
+    {
+        "text": "Would you like children?"
+    },
+    {
+        "text": "Thoughts on cousin marriages?"
+    },
+    {
+        "text": "Would you be ready to adopt a child?"
+    },
+    {
+        "text": "Who would you want your children to look like?"
+    },
+    {
+        "text": "If you were to get a daughter, what would you name her?"
+    },
+    {
+        "text": "If you were to get a son, what would you name her?"
+    },
+    {
+        "text": "Would you prefer a son or a daughter?"
+    },
+    {
+        "text": "What do you dislike about your spouse?"
+    },
+    {
+        "text": "What do you dislike about your BF/GF?"
+    },
+    {
+        "text": "If you were forced to marry someone by your parents, what would be your reaction?"
+    },
+    {
+        "text": "Arranged marriaged or love marriage? Which one do you prefer and why?"
+    },
+    {
+        "text": "Best way to your heart?"
+    },
+    {
+        "text": "What flatters you easily?"
+    },
+    {
+        "text": "Do you believe in 2nd chances?"
+    },
+    {
+        "text": "If someone was to break 2nd chance, would you give them more chances?"
+    },
+    {
+        "text": "Do you get easily flattered by compliments or not?"
+    },
+    {
+        "text": "How many compliments do you recieve usually?"
+    },
+    {
+        "text": "What is your favourite pickup line?"
+    },
+    {
+        "text": "What is the worst pickup line according to you?"
+    },
+    {
+        "text": "Has anyone used any pickup line on you, if so which one?"
+    },
+    {
+        "text": "The worst pickup line to be used on you?"
+    },
+    {
+        "text": "Do you believe pickup lines work?"
+    },
+    {
+        "text": "Do you prefer relationships or one night stands?"
+    },
+    {
+        "text": "What is your opinion on relationships?"
+    },
+    {
+        "text": "Maximum age difference between partners should be?"
+    },
+    {
+        "text": "Do you prefer a younger or older partner?"
+    },
+    {
+        "text": "Would you settle for a person with financial problems?"
+    },
+    {
+        "text": "Do you support your partner?"
+    },
+    {
+        "text": "Would you break up a couple for your own reasons?"
+    },
+    {
+        "text": "Would you have an affair with a married person?"
+    },
+    {
+        "text": "Your views on cheater?"
+    },
+    {
+        "text": "If your partner who you extremely love was to be disloyal, would you break up with her?"
+    },
+    {
+        "text": "What do you do not allow your partner to do?"
+    },
+    {
+        "text": "How much supportive is your partner?"
+    },
+    {
+        "text": "How would you react if your partner was to cheat on you?"
+    },
+    {
+        "text": "Would you cheat on your partner deliberately?"
+    },
+    {
+        "text": "Who would you want to lose your virginity to?"
+    },
+    {
+        "text": "What do you think is considered cheating in a relationship?"
+    },
+    {
+        "text": "What is a healthy relationship according to you?"
+    },
+    {
+        "text": "If you were to cheat on your partner, would you tell them?"
+    },
+    {
+        "text": "Are you religious?"
+    },
+    {
+        "text": "How much do you swear around people?"
+    },
+    {
+        "text": "What kind of TV shows do you like?"
+    },
+    {
+        "text": "If you were homosexual, who would you choose as your life partner?"
+    },
+    {
+        "text": "If you could go back in time to change one thing, what would it be?"
+    },
+    {
+        "text": "Have you ever been arrested?"
+    },
+    {
+        "text": "If you\u2019ve been arrested, what was the reason?"
+    },
+    {
+        "text": "Have you ever been admitted in a hospital?"
+    },
+    {
+        "text": "Worst accident you\u2019ve ever had?"
+    },
+    {
+        "text": "If you could do anything illegal without getting arrested, what would it be?"
+    },
+    {
+        "text": "Have you ever done something heroic?"
+    },
+    {
+        "text": "Have you ever saved someone\u2019s life?"
+    },
+    {
+        "text": "Any regrets?"
+    },
+    {
+        "text": "Have you ever been on TV?"
+    },
+    {
+        "text": "If you could live anywhere in the world, where would it be?"
+    },
+    {
+        "text": "Do you prefer to be alone or with people?"
+    },
+    {
+        "text": "Have you met any celebrities, if so which?"
+    },
+    {
+        "text": "Biggest prank you\u2019ve played on someone?"
+    },
+    {
+        "text": "Biggest prank someone played on you?"
+    },
+    {
+        "text": "Have you done anything in life to be proud of?"
+    },
+    {
+        "text": "Have you ever been famous, if so how and where?"
+    },
+    {
+        "text": "Money, love or luck. Which one would you choose?"
+    },
+    {
+        "text": "What genre is your favourite?"
+    },
+    {
+        "text": "How many pillows do you sleep with?"
+    },
+    {
+        "text": "What position in bed do you sleep?"
+    },
+    {
+        "text": "What do you usually have for breakfast?"
+    },
+    {
+        "text": "How big is your house?"
+    },
+    {
+        "text": "Do you believe in karma?"
+    },
+    {
+        "text": "Ever gotten revenge on anybody?"
+    },
+    {
+        "text": "What do you wear to bed?"
+    },
+    {
+        "text": "If no one cared about what you wore, what would you wear outside?"
+    },
+    {
+        "text": "Have you ever fired a gun?"
+    },
+    {
+        "text": "What\u2019s your favourite compliment?"
+    },
+    {
+        "text": "What\u2019s your favourite cussword?"
+    },
+    {
+        "text": "What word do you say the most?"
+    },
+    {
+        "text": "What word do you say the least?"
+    },
+    {
+        "text": "What was the last movie you saw?"
+    },
+    {
+        "text": "Who\u2019s your favourite female actor?"
+    },
+    {
+        "text": "Who\u2019s your favourite male actor?"
+    },
+    {
+        "text": "What\u2019s your favourite movie quote?"
+    },
+    {
+        "text": "What\u2019s your favorite movie sequel?"
+    },
+    {
+        "text": "If you were to make a movie, where would you make it?"
+    },
+    {
+        "text": "If you could remake any movie, which one would it be?"
+    },
+    {
+        "text": "If you were to remake a movie, what actors would you cast?"
+    },
+    {
+        "text": "If you were to replace a character in your favourite movie, who would you replace with who?"
+    },
+    {
+        "text": "Under rated actor who deserves to be famous in your opinion?"
+    },
+    {
+        "text": "Who\u2019s your favourite celebrity with the same birthday or name as you?"
+    },
+    {
+        "text": "What\u2019s your favorite movie?"
+    },
+    {
+        "text": "What movie would you wish to come to life?"
+    },
+    {
+        "text": "Movies you think one should watch before dying?"
+    },
+    {
+        "text": "Favourite actor who has not won a oscar yet?"
+    },
+    {
+        "text": "Favourite cartoon?"
+    },
+    {
+        "text": "Favourite cartoon character?"
+    },
+    {
+        "text": "Any cartoon character that you had a crush on?"
+    },
+    {
+        "text": "Which cartoon character resembles you the most?"
+    },
+    {
+        "text": "Which cartoon did you used to watch the most?"
+    },
+    {
+        "text": "Your least favourite cartoon?"
+    },
+    {
+        "text": "Your favourite cartoon movie?"
+    },
+    {
+        "text": "Do you watch talent shows? If yes, which?"
+    },
+    {
+        "text": "Do you watch comedy shows? If yes, which?"
+    },
+    {
+        "text": "Comedy shows or Talent shows?"
+    },
+    {
+        "text": "If you were to make a talent show of your own, what would it be about?"
+    },
+    {
+        "text": "Do you watch Reality shows? If yes, which?"
+    },
+    {
+        "text": "Your opinion on reality shows?"
+    },
+    {
+        "text": "If you were given a chance to star in a reality show, would you?"
+    },
+    {
+        "text": "Do you watch dramas? If yes, which?"
+    },
+    {
+        "text": "How I met your Mother or Friends?"
+    },
+    {
+        "text": "Who was your favourite character in how I met your mother?"
+    },
+    {
+        "text": "Who was your favourite character in Friends?"
+    },
+    {
+        "text": "If you were given a chance to star in any tv show, which one would it be?"
+    },
+    {
+        "text": "Do you prefer shows with a good storyline or just good looking cast?"
+    },
+    {
+        "text": "How many episodes do you usually watch everyday?"
+    },
+    {
+        "text": "What\u2019s the longest amount of TV episodes you\u2019ve watched in a day?"
+    },
+    {
+        "text": "How long does it take you to complete a show?"
+    },
+    {
+        "text": "How long does it take you to complete one season?"
+    },
+    {
+        "text": "Do you prefer TV shows or Movies?"
+    },
+    {
+        "text": "If you could make the whole world watch one tv show of your choice, which tv show would it be?"
+    },
+    {
+        "text": "If you could make the whole world watch one movie of your choice, which movie would it be?"
+    },
+    {
+        "text": "What movie would you never wish to come to life?"
+    },
+    {
+        "text": "Do you believe in supernatural stuff such as ghosts, demons etc?"
+    },
+    {
+        "text": "What came first, chicken or egg?"
+    },
+    {
+        "text": "If zombies or aliens were to invade your country, what would you do?"
+    },
+    {
+        "text": "Do you believe aliens exist, if so why?"
+    },
+    {
+        "text": "If someone was to make a movie about your life, what would be it\u2019s movie title?"
+    },
+    {
+        "text": "What horror movie scared you the most?"
+    },
+    {
+        "text": "What comedy movie made you laugh the most?"
+    },
+    {
+        "text": "If you were given the chance to date a celebrity while in a relation, would you ditch your partner for the celeb?"
+    },
+    {
+        "text": "If you could live the life of any one celebrity in the world for a day, who would you choose and why?"
+    },
+    {
+        "text": "Your least favourite celebrity?"
+    },
+    {
+        "text": "If you could watch one tv series all over again from the start, which one would you watch?"
+    },
+    {
+        "text": "If you could forget a movie and be able to watch it all over again, which one would it be?"
+    },
+    {
+        "text": "If someone was to make a movie about you, which celebrity would you pick to play as you?"
+    },
+    {
+        "text": "If you could sleep with any celebrity, who would it be and why?"
+    },
+    {
+        "text": "What football team do you support?"
+    },
+    {
+        "text": "If you could change any movie\u2019s endings, which one would it be?"
+    },
+    {
+        "text": "If you were to make your own football team, what would you name it?"
+    },
+    {
+        "text": "If you were to pick any 10 players from any football team in the world for your team, who would you pick?"
+    },
+    {
+        "text": "What\u2019s your favourite stadium?"
+    },
+    {
+        "text": "What\u2019s your favourite board game?"
+    },
+    {
+        "text": "Do you prefer UNO or Monopoly?"
+    },
+    {
+        "text": "Do you usually win or lose at board games?"
+    },
+    {
+        "text": "Do you prefer to play virtual games or board games?"
+    },
+    {
+        "text": "Do you know how to play chess?"
+    },
+    {
+        "text": "If you could play your favourite board game with anyone in the world, who would it be?"
+    },
+    {
+        "text": "Do you think board games depend more on luck or skills?"
+    },
+    {
+        "text": "What\u2019s your lucky number?"
+    },
+    {
+        "text": "Do you have any favourite objects? if so, what is it?"
+    },
+    {
+        "text": "What is the most valuable object you have in your home?"
+    },
+    {
+        "text": "Have you ever stolen anything?"
+    },
+    {
+        "text": "Have you ever had something precious stolen from you?"
+    },
+    {
+        "text": "What is your favourite song and why?"
+    },
+    {
+        "text": "Do you have any song that relates to your partner, if so what is it?"
+    },
+    {
+        "text": "What song relates the most to your life?"
+    },
+    {
+        "text": "What instrument you don\u2019t know how to play, but want to learn?"
+    },
+    {
+        "text": "What\u2019s your favourite musical"
+    },
+    {
+        "text": "If you were to make a music video, who would you cast?"
+    },
+    {
+        "text": "If you were to make a music video, where would you shoot the video?"
+    },
+    {
+        "text": "Do you listen to music for their lyrics or for the music?"
+    },
+    {
+        "text": "Who\u2019s your favourite rapper?"
+    },
+    {
+        "text": "If you could bring any dead singer back to life, who would it be?"
+    },
+    {
+        "text": "Which singer do you hate the most and why?"
+    },
+    {
+        "text": "If you were to sing a song, what would it be about?"
+    },
+    {
+        "text": "Your opinion on disney singers?"
+    },
+    {
+        "text": "Selena Gomez or Taylor Swift?"
+    },
+    {
+        "text": "Zac Efron or Ian Somerhalder?"
+    },
+    {
+        "text": "What is your favourite club song?"
+    },
+    {
+        "text": "What is your favourite driving music?"
+    },
+    {
+        "text": "What is your favourite music to listen to for relaxation?"
+    },
+    {
+        "text": "What song would you like to be played on your wedding?"
+    },
+    {
+        "text": "What was the first song you danced to?"
+    },
+    {
+        "text": "What was the first song you danced to with your partner?"
+    },
+    {
+        "text": "What was the first song you ever listened to?"
+    },
+    {
+        "text": "What is your favourite breakup song?"
+    },
+    {
+        "text": "What is your favourite emotional song?"
+    },
+    {
+        "text": "What is your favourite rock song?"
+    },
+    {
+        "text": "What song do you listen to for motivation?"
+    },
+    {
+        "text": "If you could attend any singer live, who would it?"
+    },
+    {
+        "text": "If you were to get free ticket to take anyone with you to a music concert, who would it be?"
+    },
+    {
+        "text": "The most embarrasing song?"
+    },
+    {
+        "text": "The funniest song you\u2019ve ever heard?"
+    },
+    {
+        "text": "Ever been to a live concert?"
+    },
+    {
+        "text": "Which music instruments do you know how to play?"
+    },
+    {
+        "text": "Are you a good or bad student?"
+    },
+    {
+        "text": "Who\u2019s your favourite teacher?"
+    },
+    {
+        "text": "Have any of your teachers/classmates ever been involved in any scandals?"
+    },
+    {
+        "text": "Ever had a crush on any of your teachers?"
+    },
+    {
+        "text": "Would you date your teacher if you had the chance?"
+    },
+    {
+        "text": "What\u2019s your favourite subject?"
+    },
+    {
+        "text": "What\u2019s your least favourite subject?"
+    },
+    {
+        "text": "What subject are you the most good at?"
+    },
+    {
+        "text": "Any foreign languages you\u2019ve learnt at school?"
+    },
+    {
+        "text": "Were you active or inactive at school?"
+    },
+    {
+        "text": "Which country would you love to study at?"
+    },
+    {
+        "text": "How would you rate your country\u2019s education?"
+    },
+    {
+        "text": "Favourite scientist and why?"
+    },
+    {
+        "text": "Least favourite scientist and why?"
+    },
+    {
+        "text": "Favourite person that changed the whole world?"
+    },
+    {
+        "text": "The best invention that changed the whole world?"
+    },
+    {
+        "text": "Were you bullied at school?"
+    },
+    {
+        "text": "Were you popular in school?"
+    },
+    {
+        "text": "How many people did you date in school?"
+    },
+    {
+        "text": "Favourite memory from school?"
+    },
+    {
+        "text": "Least favourite memory from school?"
+    },
+    {
+        "text": "Did you ever cry in school and why?"
+    },
+    {
+        "text": "If your teacher was to hit you, how would you respond?"
+    },
+    {
+        "text": "Do you think hitting students for discipline is acceptable?"
+    },
+    {
+        "text": "What kind of person were you at school? Nerdy, intelligent etc"
+    },
+    {
+        "text": "If you could live the life of any historical person, who would it be?"
+    },
+    {
+        "text": "Have you ever made someone cry?"
+    },
+    {
+        "text": "If you were to be offered full scholarship for any university, which one would it be?"
+    },
+    {
+        "text": "What\u2019s the worst thing you\u2019ve done in school?"
+    },
+    {
+        "text": "Were your parents ever called by the school. If so, for what reason?"
+    },
+    {
+        "text": "What was your teacher\u2019s impressions on you?"
+    },
+    {
+        "text": "What were your classmate\u2019s impression on you?"
+    },
+    {
+        "text": "If you got accepted into Hogwarts, would you go or not?"
+    },
+    {
+        "text": "What was your favourite activity at school?"
+    },
+    {
+        "text": "What do you prefer to do most of the time at school?"
+    },
+    {
+        "text": "Business, Arts, Engineering or Medical. Which one do you prefer and why?"
+    },
+    {
+        "text": "Are you happy with the course you are taking right now?"
+    },
+    {
+        "text": "If your parents were to force you to study something you\u2019re not interested in, what would be your reaction?"
+    },
+    {
+        "text": "If you could study only one subject for life, which one would it be?"
+    },
+    {
+        "text": "If you could get rid of one subject from this world permanently, which one would it be?"
+    },
+    {
+        "text": "Do you think school is useful or not?"
+    },
+    {
+        "text": "Are you able to study at school?"
+    },
+    {
+        "text": "Are you popular in school?"
+    },
+    {
+        "text": "If someone was to bully a classmate, would you stand up for him?"
+    },
+    {
+        "text": "If your classmate was to do something bad in school, would you snitch on him to the teacher?"
+    },
+    {
+        "text": "Have you ever snitched on anyone in school?"
+    },
+    {
+        "text": "Things you dislike about your institute?"
+    },
+    {
+        "text": "Things you like about your institute?"
+    },
+    {
+        "text": "If you could swap institute, which one would it be?"
+    },
+    {
+        "text": "Are you happy with the current institute you\u2019re going too? If no, why?"
+    },
+    {
+        "text": "If you could swap teachers, who would you swap them with and why?"
+    },
+    {
+        "text": "What do you usually do at break time?"
+    },
+    {
+        "text": "Most memorable moment at school?"
+    },
+    {
+        "text": "If you go on a field trip with your whole class to anywhere, where would you go?"
+    },
+    {
+        "text": "Are you still in contact with friends from your previous institutes (kindergarten, primary etc)?"
+    },
+    {
+        "text": "If you were offered to skip a grade, would you?"
+    },
+    {
+        "text": "Did you fake ill to avoid school?"
+    },
+    {
+        "text": "What\u2019s the best excuse you\u2019ve used to avoid school?"
+    },
+    {
+        "text": "What\u2019s the worst excuse you\u2019ve used to avoid school?"
+    },
+    {
+        "text": "Did your teachers believe you or not?"
+    },
+    {
+        "text": "Did you do your homework/assignments on time?"
+    },
+    {
+        "text": "If not, what excuses did you make up to get away?"
+    },
+    {
+        "text": "Have you ever put the blame on someone else and got them in trouble?"
+    },
+    {
+        "text": "Have you ever took blame for someone else, getting you in trouble?"
+    },
+    {
+        "text": "Have you done anything illegal in school that teachers never found out?"
+    },
+    {
+        "text": "How would you describe your teachers?"
+    },
+    {
+        "text": "How would you describe your school?"
+    },
+    {
+        "text": "How would you describe your school\u2019s community?"
+    },
+    {
+        "text": "Were you close to your teachers or not?"
+    },
+    {
+        "text": "Were you on students or teachers side?"
+    },
+    {
+        "text": "Have you ever became a school counselor, prefect or captain in school?"
+    },
+    {
+        "text": "What house were you in at school?"
+    },
+    {
+        "text": "Which life do you prefer more? school, high school or university life?"
+    },
+    {
+        "text": "If you were to become head principal of your school for a day, what changes would you make to it?"
+    },
+    {
+        "text": "If you were given the power to suspend anyone from school, who would you suspend?"
+    },
+    {
+        "text": "Would you love to teach at your school in the future?"
+    },
+    {
+        "text": "Thoughts on your juniors?"
+    },
+    {
+        "text": "Thoughts on your seniors?"
+    },
+    {
+        "text": "Who do you get along with more? Your class or the other classes?"
+    },
+    {
+        "text": "Biggest achievement in school?"
+    },
+    {
+        "text": "Do you prefer co education or same sex schools and why?"
+    },
+    {
+        "text": "Is your school co education or same sex?"
+    },
+    {
+        "text": "What\u2019s your dream university?"
+    },
+    {
+        "text": "If you found out you have been accepted into a big university such as Harvard or MIT, what would be your reaction?"
+    },
+    {
+        "text": "Did you used bunk classes? If so, where did you go during bunk?"
+    },
+    {
+        "text": "Have you ever been caught bunking classes?"
+    },
+    {
+        "text": "What was your attendance rate in school?"
+    },
+    {
+        "text": "Were there any illegal organizations in your institute?"
+    },
+    {
+        "text": "If you were asked to join a gang in school, would you?"
+    },
+    {
+        "text": "If you get bullied, who do you usually go to?"
+    },
+    {
+        "text": "Do you tell your parents about your school life or not?"
+    },
+    {
+        "text": "If you could change any one thing about your institute, what would it be?"
+    },
+    {
+        "text": "If you were allowed a freepass to do anything illegal in school, what would you do?"
+    },
+    {
+        "text": "How far is your institute from your home?"
+    },
+    {
+        "text": "How do you go to school everyday?"
+    },
+    {
+        "text": "Do you prefer to walk to school or take public transport?"
+    },
+    {
+        "text": "What is the punishment for coming late to class?"
+    },
+    {
+        "text": "If you found out you had to repeat grade, what would your reaction be?"
+    },
+    {
+        "text": "If you were given a wish to get A on any one subject, which subject would you choose?"
+    },
+    {
+        "text": "If you were forced to get a F on only one subject, which subject would you choose?"
+    },
+    {
+        "text": "Which subject do you think is useful and why?"
+    },
+    {
+        "text": "Which subject do you think is useless and why?"
+    },
+    {
+        "text": "Do you prefer teaching or studying?"
+    },
+    {
+        "text": "How good of a teacher are you when it comes to teaching your classmates?"
+    },
+    {
+        "text": "If you were to gain full knowledge of any scientist, whose would it be?"
+    },
+    {
+        "text": "How much do you pay for your institute?"
+    },
+    {
+        "text": "Do you prefer Xbox or Playstation?"
+    },
+    {
+        "text": "If you had to choose between xbox or playstation to recieve for this christmas, which one would you pick?"
+    },
+    {
+        "text": "What\u2019s the most expensive game you\u2019ve bought?"
+    },
+    {
+        "text": "What\u2019s the most cheapest game you\u2019ve bought?"
+    },
+    {
+        "text": "Worst game you\u2019ve played?"
+    },
+    {
+        "text": "Best game you\u2019ve played?"
+    },
+    {
+        "text": "Most addictive game you\u2019ve played?"
+    },
+    {
+        "text": "Most hardest game you\u2019ve played?"
+    },
+    {
+        "text": "Most scariest game you\u2019ve played?"
+    },
+    {
+        "text": "Most funniest game you\u2019ve played?"
+    },
+    {
+        "text": "If you could live the life of any video game character, who would it be and why?"
+    },
+    {
+        "text": "The most attractive video game character?"
+    },
+    {
+        "text": "The least attractive video game character?"
+    },
+    {
+        "text": "If you could bring any video game character to life to be your companion, who would it be and why?"
+    },
+    {
+        "text": "If you could date any video game character, who would it be?"
+    },
+    {
+        "text": "If you could bring one dead character back into the game, who would it be?"
+    },
+    {
+        "text": "If you could kill one character in a game, who would it be?"
+    },
+    {
+        "text": "Do you prefer to play as female or male in videogames?"
+    },
+    {
+        "text": "What do you prefer, social life or games?"
+    },
+    {
+        "text": "If you could live in any video-game world, which one would it be and why?"
+    },
+    {
+        "text": "Are there any videogame which relates to your life?"
+    },
+    {
+        "text": "If you were to make a game, what would it be about?"
+    },
+    {
+        "text": "Would you want a proffesional gaming career?"
+    },
+    {
+        "text": "Thoughts on earning money from playing games?"
+    },
+    {
+        "text": "If you could only play one videogame for the rest of your life, which one would it be?"
+    },
+    {
+        "text": "If you could improve any video game, how would you improve it?"
+    },
+    {
+        "text": "If you could combine 3 video game worlds, which ones would you combine?"
+    },
+    {
+        "text": "If you were to make all your favourite video game characters fight each other, who would win?"
+    },
+    {
+        "text": "Your favorite antagonist and protagonist?"
+    },
+    {
+        "text": "What\u2019s your favourite role playing game?"
+    },
+    {
+        "text": "What\u2019s your favourite sandbox game?"
+    },
+    {
+        "text": "Favourite GTA game and why?"
+    },
+    {
+        "text": "Do you prefer FIFA or FIFA street?"
+    },
+    {
+        "text": "Least favourite GTA game and why?"
+    },
+    {
+        "text": "Favourite Halo game?"
+    },
+    {
+        "text": "Favourite call of duty game?"
+    },
+    {
+        "text": "Favourite protagonist in call of duty?"
+    },
+    {
+        "text": "Favourite antagonist in call of duty?"
+    },
+    {
+        "text": "Battlefield or Call of duty?"
+    },
+    {
+        "text": "Favourite game you like to play online?"
+    },
+    {
+        "text": "World of Warcraft or Runescape?"
+    },
+    {
+        "text": "LoL or Dota?"
+    },
+    {
+        "text": "Burnout or forza?"
+    },
+    {
+        "text": "What gaming genre is your favourite? (Driving, sports, shooting etc.)"
+    },
+    {
+        "text": "What impact has videogames had on you?"
+    },
+    {
+        "text": "Do you believe in PG ratings?"
+    },
+    {
+        "text": "Would you allow your children or younger siblings to play violent games?"
+    },
+    {
+        "text": "What impact do you think video games has had on the youth?"
+    },
+    {
+        "text": "How would your life be like without video games?"
+    },
+    {
+        "text": "Do you like realistic or unrealistic games?"
+    },
+    {
+        "text": "Do you prefer fantasy games over realistic games?"
+    },
+    {
+        "text": "What is the most gruesome game you\u2019ve played?"
+    },
+    {
+        "text": "What is your favourite stealth game?"
+    },
+    {
+        "text": "If you could gain skills of any videogame character, who would it be?"
+    },
+    {
+        "text": "How much time do you spend everyday playing video games?"
+    },
+    {
+        "text": "Why do you play videogames?"
+    },
+    {
+        "text": "Do you prefer playing online or split screen with two controllers?"
+    },
+    {
+        "text": "When you play split screen games, who do you usually play with?"
+    },
+    {
+        "text": "What is your favourite mode in Call of Duty? (Search & Destroy, capture the flag etc)"
+    },
+    {
+        "text": "Free to play or pay to play games?"
+    },
+    {
+        "text": "Do you prefer to play games with cheats or without cheats?"
+    },
+    {
+        "text": "If you could use a cheat in real life, what cheat would it be?"
+    },
+    {
+        "text": "How do you remember game cheats?"
+    },
+    {
+        "text": "Do you try to remember game cheats or write them down on paper?"
+    },
+    {
+        "text": "What difficulty do you like to play games in usually?"
+    },
+    {
+        "text": "Would you play a game over again after finishing it?"
+    },
+    {
+        "text": "How many times have you completed the same game?"
+    },
+    {
+        "text": "How many games do you think you\u2019ve completed so far?"
+    },
+    {
+        "text": "If you were to play only one game series for the rest of your life, which one would it be?"
+    },
+    {
+        "text": "If you could kill one main character from a game, who would it be and why?"
+    },
+    {
+        "text": "Do you support villain or hero?"
+    },
+    {
+        "text": "Favourite assassin\u2019s creed character?"
+    },
+    {
+        "text": "Favourite assassin\u2019s creed villain?"
+    },
+    {
+        "text": "Favourite assassin\u2019s creed protoganist?"
+    },
+    {
+        "text": "Which assassin\u2019s creed game did you like the most and why?"
+    },
+    {
+        "text": "Which assassin\u2019s creed game you liked the least and why?"
+    },
+    {
+        "text": "Do you think games can be educational?"
+    },
+    {
+        "text": "How much money have you spent on videogames so far?"
+    },
+    {
+        "text": "What is your favourite zombie videogame?"
+    },
+    {
+        "text": "Left 4 dead or Resident evil?"
+    },
+    {
+        "text": "GTA or Saints Row?"
+    },
+    {
+        "text": "La Noire or Sleeping dogs?"
+    },
+    {
+        "text": "Skyrim or Oblivion?"
+    },
+    {
+        "text": "Need for speed or Burnout?"
+    },
+    {
+        "text": "What team do you usually pick when playing FIFA?"
+    },
+    {
+        "text": "What car do you usually pick when playing a street racing game?"
+    },
+    {
+        "text": "Your favorite quote from a game?"
+    },
+    {
+        "text": "What game do you think deserves a movie?"
+    },
+    {
+        "text": "Which game did you used to play in your childhood?"
+    },
+    {
+        "text": "What\u2019s your favourite arcade game?"
+    },
+    {
+        "text": "What\u2019s your favourite first person shooting game?"
+    },
+    {
+        "text": "What\u2019s your favourite third person shooting game?"
+    },
+    {
+        "text": "Do you play any game that you\u2019re embarrassed to tell others about?"
+    },
+    {
+        "text": "Social life or Gaming?"
+    },
+    {
+        "text": "Would you pick your girlfriend or gaming?"
+    },
+    {
+        "text": "What games do you have installed in your phone?"
+    },
+    {
+        "text": "What is the most annoying game you\u2019ve ever played?"
+    },
+    {
+        "text": "What game do you usually play on your phone to pass time?"
+    },
+    {
+        "text": "Do you think people who play games on phone deserve to be called \u201cgamers\u201d?"
+    },
+    {
+        "text": "What is your favorite game to play on phone?"
+    },
+    {
+        "text": "What is your least favorite game to play on phone?"
+    },
+    {
+        "text": "Your top 5 favourite games on phone?"
+    },
+    {
+        "text": "Favourite single player game on phone?"
+    },
+    {
+        "text": "Favourite online game on phone?"
+    },
+    {
+        "text": "What was the first video game you played?"
+    },
+    {
+        "text": "What was the first game you played on console?"
+    },
+    {
+        "text": "What was the first game you played on mobile?"
+    },
+    {
+        "text": "At what age did you start gaming?"
+    },
+    {
+        "text": "What was the first console you bought?"
+    },
+    {
+        "text": "Who do you prefer to play games with?"
+    },
+    {
+        "text": "Favourite browser game?"
+    },
+    {
+        "text": "What was your least favourite browser game?"
+    },
+    {
+        "text": "Favorite game on Facebook? (Farmville, cityville etc)"
+    },
+    {
+        "text": "Favourite soundtrack in videogame?"
+    },
+    {
+        "text": "When playing a game, do you prefer to do missions or just roam around?"
+    },
+    {
+        "text": "How much time does it usually take you to complete a game?"
+    },
+    {
+        "text": "If you could play as one GTA character only forever, who would it be?"
+    },
+    {
+        "text": "What is your favourite cheat in GTA?"
+    },
+    {
+        "text": "What car do you prefer to drive in GTA?"
+    },
+    {
+        "text": "Hardest mission you\u2019ve done in GTA?"
+    },
+    {
+        "text": "Easiest mission you\u2019ve done in GTA?"
+    },
+    {
+        "text": "What\u2019s your favourite game?"
+    },
+    {
+        "text": "Do you usually win or lose when playing against friends?"
+    },
+    {
+        "text": "What are your parents inputs on you gaming?"
+    },
+    {
+        "text": "What type of games do you like to play with your partner?"
+    },
+    {
+        "text": "Do you enjoy sensor or controller games?"
+    },
+    {
+        "text": "If you could get any game for free, which one would it be?"
+    },
+    {
+        "text": "If you were to sell all your games, how much money do you think you\u2019d make?"
+    },
+    {
+        "text": "What expensive game have you regretted buying?"
+    },
+    {
+        "text": "Where do you prefer to buy your videogames from?"
+    },
+    {
+        "text": "Do you like taking turns to play when it comes to gaming?"
+    },
+    {
+        "text": "What is your reaction when you lose a game?"
+    },
+    {
+        "text": "What is your reaction when you win a game?"
+    },
+    {
+        "text": "Do you prefer to game alone or with someone else?"
+    },
+    {
+        "text": "Does gaming run in your genes?"
+    },
+    {
+        "text": "How has gaming changed your life?"
+    },
+    {
+        "text": "How do you think your life without gaming be like?"
+    },
+    {
+        "text": "Do you take part in gaming tournaments or not?"
+    },
+    {
+        "text": "What game are you the best at?"
+    },
+    {
+        "text": "What game are you the worst at?"
+    },
+    {
+        "text": "What do you think makes a game successful?"
+    },
+    {
+        "text": "If you could remake one game, which one would it be and how would you remake it?"
+    },
+    {
+        "text": "Your favourite phone?"
+    },
+    {
+        "text": "What mobile model are you using at the moment?"
+    },
+    {
+        "text": "Your favourite mobile brand?"
+    },
+    {
+        "text": "Your favourite local mobile brand?"
+    },
+    {
+        "text": "Your favourite foreign mobile brand?"
+    },
+    {
+        "text": "Favourite under rated mobile?"
+    },
+    {
+        "text": "Least favourite over rated mobile?"
+    },
+    {
+        "text": "Samsung or Apple?"
+    },
+    {
+        "text": "If you could get any phone for free, which one would it be?"
+    },
+    {
+        "text": "If you had the opportunity to switch your phone with a less better version but better brand, would you switch?"
+    },
+    {
+        "text": "What impact do you think phone\u2019s have had on the world?"
+    },
+    {
+        "text": "Life without smartphone be like?"
+    },
+    {
+        "text": "Have you ever did a prank call on anyone? If so, who and how did you prank them?"
+    },
+    {
+        "text": "What was their reaction?"
+    },
+    {
+        "text": "Have you ever been prank called? What was your reaction?"
+    },
+    {
+        "text": "Favourite smartphone logo?"
+    },
+    {
+        "text": "Your favourite iphone?"
+    },
+    {
+        "text": "Your favourite samsung phone?"
+    },
+    {
+        "text": "Your favourite motorola phone?"
+    },
+    {
+        "text": "Do you prefer iOS, Android or Windows?"
+    },
+    {
+        "text": "What is your phone\u2019s OS?"
+    },
+    {
+        "text": "Where do you usually download your apps from?"
+    },
+    {
+        "text": "Have you ever made an app of your own? If so, what was the app about?"
+    },
+    {
+        "text": "If you were to make an app, what would it be about?"
+    },
+    {
+        "text": "How many apps do you usually download on a daily basis?"
+    },
+    {
+        "text": "How many apps do you have installed at the moment?"
+    },
+    {
+        "text": "Name 3 apps you use the most on your phone?"
+    },
+    {
+        "text": "Name 3 apps you\u2019ve installed on your phone, but use the least?"
+    },
+    {
+        "text": "Worst app you\u2019ve installed?"
+    },
+    {
+        "text": "Do you prefer free or paid apps?"
+    },
+    {
+        "text": "Have you bought any paid apps? If so which?"
+    },
+    {
+        "text": "Most expensive paid app you bought and were you satisfied with it?"
+    },
+    {
+        "text": "What\u2019s your favourite mobile app?"
+    },
+    {
+        "text": "How do you usually take your photos? (With camera, phone? etc)"
+    },
+    {
+        "text": "What software do you use to backup your photos?"
+    },
+    {
+        "text": "Total number of photos you\u2019ve in your gallery?"
+    },
+    {
+        "text": "Do you password protect your phone?"
+    },
+    {
+        "text": "If you do, why so?"
+    },
+    {
+        "text": "How do you usually share stuff on your phone? Via bluetooth or Internet?"
+    },
+    {
+        "text": "Have you any hidden files on your phone? If so, what are they?"
+    },
+    {
+        "text": "What do you usually do on your phone?"
+    },
+    {
+        "text": "Do you prefer PC or Phone?"
+    },
+    {
+        "text": "If you could use only PC or Phone for the rest of the life, what would you pick?"
+    },
+    {
+        "text": "What operating system do you use on your PC?"
+    },
+    {
+        "text": "Favourite windows?"
+    },
+    {
+        "text": "Least-favourite windows?"
+    },
+    {
+        "text": "Mac or Windows?"
+    },
+    {
+        "text": "Linux or Windows?"
+    },
+    {
+        "text": "What changes would you like to make to your current operating system?"
+    },
+    {
+        "text": "What are your computer\u2019s specs?"
+    },
+    {
+        "text": "What do you usually do on PC?"
+    },
+    {
+        "text": "Do you prefer PC or console for gaming?"
+    },
+    {
+        "text": "If you were to use only one operating system for the rest of your life, what would it be?"
+    },
+    {
+        "text": "If you were to invent an OS of your own, how would it be like?"
+    },
+    {
+        "text": "If you were to make changes to a OS, what would they be?"
+    },
+    {
+        "text": "If you were to rename a OS, what would they be?"
+    },
+    {
+        "text": "Tabs or smartphones and why?"
+    },
+    {
+        "text": "How many hours do you use your phone on a daily basis?"
+    },
+    {
+        "text": "Do you regret using your phone that much?"
+    },
+    {
+        "text": "What positive impact do you think phone has had on everyone?"
+    },
+    {
+        "text": "What negative impact do you think phone has had on everyone?"
+    },
+    {
+        "text": "If you were to invent a smartphone of your own, how would it be like?"
+    },
+    {
+        "text": "What would you name your own smartphone?"
+    },
+    {
+        "text": "How much would you price your phone?"
+    },
+    {
+        "text": "How much did you buy your current smartphone for?"
+    },
+    {
+        "text": "Your thoughts on the prices of smartphones, whether they\u2019re fair prices or not?"
+    },
+    {
+        "text": "Do you buy phones based on their looks or how they work?"
+    },
+    {
+        "text": "Post a picture of your phone\u2019s cover?"
+    },
+    {
+        "text": "What type of cover do you use?"
+    },
+    {
+        "text": "Is your phone protected?"
+    },
+    {
+        "text": "What type of password your phone has?"
+    },
+    {
+        "text": "Where do you usually get your music from?"
+    },
+    {
+        "text": "How many songs are in your phone\u2019s playlist?"
+    },
+    {
+        "text": "Where do you stream music videos?"
+    },
+    {
+        "text": "Subway Surfer or Temple Run?"
+    },
+    {
+        "text": "Highest score you\u2019ve achieved on Subway surfer?"
+    },
+    {
+        "text": "Highest score you\u2019ve achieved on Temple run?"
+    },
+    {
+        "text": "Do you prefer music in mp3 or video format?"
+    },
+    {
+        "text": "Which singer\u2019s songs you\u2019ve the most on your phone?"
+    },
+    {
+        "text": "Any embarrassing thing you have on your phone that you don\u2019t want others to know?"
+    },
+    {
+        "text": "At what age did you start using phone?"
+    },
+    {
+        "text": "Whatsapp or Facebook Messenger?"
+    },
+    {
+        "text": "Viber or Skype?"
+    },
+    {
+        "text": "Instagram or Snapchat?"
+    },
+    {
+        "text": "Twitter or Facebook?"
+    },
+    {
+        "text": "Highest likes you\u2019ve got on Instagram?"
+    },
+    {
+        "text": "Highest retweets/favourites you\u2019ve got on Twitter?"
+    },
+    {
+        "text": "Highest followers you\u2019ve got on any social networking?"
+    },
+    {
+        "text": "Where do you usually get your tweets from?"
+    },
+    {
+        "text": "Apart from socializing, what else do you use Facebook for?"
+    },
+    {
+        "text": "Apart from viewing/uploading photos on Instagram, what do you use it for?"
+    },
+    {
+        "text": "If you were to recieve a call from an unknown number, would you attend it? If someone annoys you on phone, who do you usually go to?"
+    },
+    {
+        "text": "What SIM do you use?"
+    },
+    {
+        "text": "What packages do you use on phone?"
+    },
+    {
+        "text": "How much data do you spend everyday usually?"
+    },
+    {
+        "text": "Maximum data you\u2019ve spent?"
+    },
+    {
+        "text": "What do you usually spend your data on?"
+    },
+    {
+        "text": "What app do you use the most on your phone?"
+    },
+    {
+        "text": "What app do you use the least on your phone?"
+    },
+    {
+        "text": "Do you take care of your phone or not?"
+    },
+    {
+        "text": "How many times have your phone fell but survived?"
+    },
+    {
+        "text": "How many times have you broken your phone?"
+    },
+    {
+        "text": "How many times have you cracked the screen?"
+    },
+    {
+        "text": "How many phones have you bought in your lifetime?"
+    },
+    {
+        "text": "What phone have you used the longest?"
+    },
+    {
+        "text": "What phone have you used the least time?"
+    },
+    {
+        "text": "Any phone you bought but regret buying it?"
+    },
+    {
+        "text": "How many mega-pixels is your phone\u2019s camera?"
+    },
+    {
+        "text": "If you could call one person for the rest of your life only, who would it be?"
+    },
+    {
+        "text": "Do you remember your own number?"
+    },
+    {
+        "text": "Who\u2019s numbers do you remember apart from your own?"
+    },
+    {
+        "text": "How do you memorize your numbers?"
+    },
+    {
+        "text": "Have you ever been stuck in a bad situation but had no phone?"
+    },
+    {
+        "text": "How many signal bars do you usually get in your room?"
+    },
+    {
+        "text": "What service provider do you think is the best and why so?"
+    },
+    {
+        "text": ""
+    }
+]
