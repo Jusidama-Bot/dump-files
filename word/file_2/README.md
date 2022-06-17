@@ -1,4 +1,4 @@
-# Credit : https://github.com/Itz-fork/Nexa-API
+# Credit : [Nexa-API](https://github.com/Itz-fork/Nexa-API)
 
 Files in this directory contains contents which are scraped from various websites. If you want to get your content removed from this repo, please open an issue!
 
