@@ -1,1 +1,1 @@
-# Credit : https://gitlab.com/ceda_ei/Quadnite-Bot
+# Credit : [Quadnite-Bot](https://gitlab.com/ceda_ei/Quadnite-Bot)
